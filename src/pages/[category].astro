@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PostCard from "../components/PostCard.astro";
+import { categories, getPostsByCategory } from "../lib/posts";
+
+export function getStaticPaths() {
+  return categories.map((category) => ({
+    params: { category: category.slug },
+    props: { category }
+  }));
+}
+
+const { category } = Astro.props;
+const posts = await getPostsByCategory(category.name);
+---
+
+<BaseLayout title={category.name} description={category.description}>
+  <section class="section container">
+    <div class="section-header">
+      <div>
+        <p class="eyebrow">Category</p>
+        <h1 style="max-width:none; font-size:clamp(2.6rem, 6vw, 4.8rem);">{category.name}</h1>
+        <p>{category.description}</p>
+      </div>
+      <a class="button secondary" href="/search/">Search posts</a>
+    </div>
+    <div class="post-grid">
+      {posts.map((post) => <PostCard post={post} />)}
+    </div>
+  </section>
+</BaseLayout>

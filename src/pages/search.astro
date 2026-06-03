@@ -1,0 +1,120 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { categories, getPostUrl, getPublishedPosts } from "../lib/posts";
+
+const posts = await getPublishedPosts();
+const searchIndex = posts.map((post) => ({
+  title: post.data.title,
+  date: post.data.date.toISOString(),
+  displayDate: post.data.date.toLocaleDateString("en-ZA", {
+    year: "numeric",
+    month: "short",
+    day: "numeric"
+  }),
+  excerpt: post.data.description,
+  category: post.data.category,
+  tags: post.data.tags,
+  content: post.body ?? "",
+  url: getPostUrl(post)
+}));
+const indexJson = JSON.stringify(searchIndex).replace(/</g, "\\u003c");
+---
+
+<BaseLayout title="Search" description="Search The Tech Teacher posts by title, content, category, and tags.">
+  <section class="section container">
+    <div class="section-header">
+      <div>
+        <p class="eyebrow">Search</p>
+        <h1 style="max-width:none; font-size:clamp(2.6rem, 6vw, 4.8rem);">Find a post</h1>
+        <p>Search the archive by title, excerpt, content, category, or tag.</p>
+      </div>
+    </div>
+
+    <div class="search-panel">
+      <label class="search-label" for="site-search">Search posts</label>
+      <input id="site-search" class="search-input" type="search" placeholder="Try ChatGPT, parents, iPad, strategy..." autocomplete="off" />
+      <div class="filter-row" aria-label="Category filters">
+        <button class="filter-button is-active" type="button" data-category="">All</button>
+        {categories.map((category) => <button class="filter-button" type="button" data-category={category.name}>{category.name}</button>)}
+      </div>
+      <p id="search-summary" class="search-summary" aria-live="polite"></p>
+    </div>
+
+    <div id="search-results" class="search-results"></div>
+  </section>
+
+  <script is:inline set:html={`window.__POST_INDEX__ = ${indexJson};`} />
+  <script is:inline>
+    const posts = window.__POST_INDEX__ ?? [];
+    const input = document.querySelector("#site-search");
+    const results = document.querySelector("#search-results");
+    const summary = document.querySelector("#search-summary");
+    const buttons = [...document.querySelectorAll("[data-category]")];
+    const params = new URLSearchParams(window.location.search);
+    let activeCategory = params.get("category") ?? "";
+
+    const initialQuery = params.get("q") || params.get("tag") || "";
+    input.value = initialQuery;
+
+    if (activeCategory) {
+      buttons.forEach((button) => button.classList.toggle("is-active", button.dataset.category === activeCategory));
+    }
+
+    function normalize(value) {
+      return value.toLowerCase().trim();
+    }
+
+    function searchableText(post) {
+      return normalize([post.title, post.excerpt, post.category, post.tags.join(" "), post.content].join(" "));
+    }
+
+    function escapeHtml(value) {
+      return value
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function render() {
+      const query = normalize(input.value);
+      const filtered = posts.filter((post) => {
+        const matchesCategory = !activeCategory || post.category === activeCategory;
+        const matchesQuery = !query || searchableText(post).includes(query);
+        return matchesCategory && matchesQuery;
+      });
+
+      summary.textContent = `${filtered.length} ${filtered.length === 1 ? "result" : "results"}`;
+      results.innerHTML = filtered
+        .map(
+          (post) => `
+            <article class="search-result">
+              <div class="post-meta">
+                <time datetime="${post.date}">${post.displayDate}</time>
+                <span aria-hidden="true">/</span>
+                <span>${escapeHtml(post.category)}</span>
+              </div>
+              <h2><a href="${post.url}">${escapeHtml(post.title)}</a></h2>
+              <p>${escapeHtml(post.excerpt)}</p>
+              <div class="tag-list compact">
+                ${post.tags.slice(0, 3).map((tag) => `<a class="tag" href="/search/?tag=${encodeURIComponent(tag)}">${escapeHtml(tag)}</a>`).join("")}
+              </div>
+            </article>
+          `
+        )
+        .join("");
+    }
+
+    input.addEventListener("input", render);
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        activeCategory = button.dataset.category;
+        buttons.forEach((item) => item.classList.toggle("is-active", item === button));
+        render();
+      });
+    });
+
+    render();
+  </script>
+</BaseLayout>

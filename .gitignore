@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# Astro build output and local cache
+dist/
+.astro/
+
+# local scratch/output folders used by Codex
+work/
+outputs/
+
+# OS/editor noise
+.DS_Store
+*.log
+
+# environment files
+.env
+.env.*

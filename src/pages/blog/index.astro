@@ -1,0 +1,23 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PostCard from "../../components/PostCard.astro";
+import { getPublishedPosts } from "../../lib/posts";
+
+const posts = await getPublishedPosts();
+---
+
+<BaseLayout title="Blog Archive" description="All posts from The Tech Teacher.">
+  <section class="section container">
+    <div class="section-header">
+      <div>
+        <p class="eyebrow">Archive</p>
+        <h1 style="max-width:none; font-size:clamp(2.6rem, 6vw, 4.8rem);">Blog posts</h1>
+        <p>All published writing, sorted newest first. Use search for title, content, category, and tag filtering.</p>
+      </div>
+      <a class="button secondary" href="/search/">Search archive</a>
+    </div>
+    <div class="post-grid">
+      {posts.map((post) => <PostCard post={post} />)}
+    </div>
+  </section>
+</BaseLayout>

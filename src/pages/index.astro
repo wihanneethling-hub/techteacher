@@ -1,0 +1,79 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PostCard from "../components/PostCard.astro";
+import { categories, getPublishedPosts } from "../lib/posts";
+
+const posts = await getPublishedPosts();
+const featuredPosts = posts.slice(0, 3);
+---
+
+<BaseLayout>
+  <section class="hero">
+    <div class="hero-feature container">
+      <div class="hero-copy">
+        <h1 class="sr-only">The Tech Teacher</h1>
+        <div class="hero-brand-stack">
+          <img class="hero-logo" src="/assets/tech-teacher-wordmark.png" alt="The Tech Teacher" width="820" height="419" />
+          <img class="hero-tagline" src="/assets/tech-teacher-tagline.png" alt="Learn. Share. Inspire." width="600" height="69" />
+        </div>
+        <p class="eyebrow">Education technology, made practical</p>
+        <p class="lead">
+          Classroom-tested notes on digital tools, teaching workflows, learner support, and the useful side of technology in education.
+        </p>
+      </div>
+      <figure class="hero-photo">
+        <img src="/assets/classroom-ipads-hero.webp" alt="A teacher helping a learner use a tablet in a classroom." width="1280" height="683" />
+      </figure>
+    </div>
+  </section>
+
+  <section class="section container">
+    <div class="section-header">
+      <div>
+        <p class="eyebrow">Latest writing</p>
+        <h2>Recent posts</h2>
+        <p>Short, readable posts for educators who want technology to support better learning without adding clutter.</p>
+      </div>
+      <a class="button secondary" href="/blog/">View archive</a>
+    </div>
+    <div class="post-grid">
+      {featuredPosts.map((post) => <PostCard post={post} />)}
+    </div>
+  </section>
+
+  <section class="section contact-band" id="contact">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <p class="eyebrow">Contact</p>
+          <h2>Share an idea or old post request</h2>
+          <p>
+            Add your preferred contact address or form link here. For now, this section is ready for an email link, Netlify form, or Cloudflare Pages form worker.
+          </p>
+        </div>
+        <a class="button" href="mailto:hello@thetechteacher.co.za">Email hello@thetechteacher.co.za</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section container">
+    <div class="section-header">
+      <div>
+        <p class="eyebrow">Browse by category</p>
+        <h2>Curated sections</h2>
+        <p>Broad entry points for the archive, with detailed tags kept behind search and post filters.</p>
+      </div>
+      <a class="button secondary" href="/blog/">Full archive</a>
+    </div>
+    <div class="category-grid">
+      {
+        categories.map((category) => (
+          <a class="category-tile" href={`/${category.slug}/`}>
+            <strong>{category.name}</strong>
+            <span>{category.description}</span>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,21 @@
+{
+  "name": "thetechteacher-static",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "migrate:blogger": "node scripts/migrate-blogger.mjs",
+    "assign:categories": "node scripts/assign-categories.mjs"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.9",
+    "@astrojs/mdx": "^6.0.1",
+    "@xmldom/xmldom": "^0.8.10",
+    "astro": "^6.4.3",
+    "typescript": "^6.0.3",
+    "zod": "^4.4.3"
+  }
+}

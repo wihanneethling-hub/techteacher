@@ -1,0 +1,71 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "The Tech Teacher",
+  description = "Practical education technology notes, guides, and classroom ideas."
+} = Astro.props;
+
+const pageTitle = title === "The Tech Teacher" ? title : `${title} | The Tech Teacher`;
+const ogImage = new URL("/assets/tech-teacher-logo-wide.png", Astro.site).toString();
+const navItems = [
+  ["Home", "/"],
+  ["AI", "/ai/"],
+  ["Technology", "/technology/"],
+  ["Leadership", "/leadership/"],
+  ["Parents", "/parents/"],
+  ["About", "/about/"]
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="64x64" href="/favicon-64.png" />
+    <meta name="generator" content={Astro.generator} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <nav class="nav container" aria-label="Primary navigation">
+          <a class="brand" href="/">
+            <img class="brand-mark" src="/assets/tech-teacher-avatar.png" alt="" width="36" height="36" />
+            <span>The Tech Teacher</span>
+          </a>
+          <div class="nav-links">
+            {
+              navItems.map(([label, href]) => (
+                <a href={href} aria-current={Astro.url.pathname === href ? "page" : undefined}>
+                  {label}
+                </a>
+              ))
+            }
+          </div>
+        </nav>
+      </header>
+      <main>
+        <slot />
+      </main>
+      <footer class="site-footer">
+        <div class="footer-inner container">
+          <span>&copy; {new Date().getFullYear()} The Tech Teacher</span>
+          <span>Built with Astro. Hosted as a static site.</span>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

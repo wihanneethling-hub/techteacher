@@ -1,0 +1,41 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { getCategoryUrl, getPostUrl, getTagUrl } from "../lib/posts";
+
+interface Props {
+  post: CollectionEntry<"blog">;
+}
+
+const { post } = Astro.props;
+const date = post.data.date.toLocaleDateString("en-ZA", {
+  year: "numeric",
+  month: "short",
+  day: "numeric"
+});
+---
+
+<article class="post-card">
+  <a class="post-card-main" href={getPostUrl(post)}>
+    <div>
+      <div class="post-meta">
+        <time datetime={post.data.date.toISOString()}>{date}</time>
+        <span aria-hidden="true">/</span>
+        <span>{post.data.category}</span>
+      </div>
+      <h3>{post.data.title}</h3>
+      <p>{post.data.description}</p>
+    </div>
+  </a>
+  <div class="post-card-meta" aria-label="Post filters">
+    <a class="category-pill" href={getCategoryUrl(post.data.category)}>{post.data.category}</a>
+    {
+      post.data.tags.length > 0 && (
+        <ul class="tag-list compact" aria-label="Post tags">
+          {post.data.tags.slice(0, 3).map((tag) => (
+            <li><a class="tag" href={getTagUrl(tag)}>{tag}</a></li>
+          ))}
+        </ul>
+      )
+    }
+  </div>
+</article>

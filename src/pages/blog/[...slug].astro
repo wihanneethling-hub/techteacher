@@ -1,0 +1,38 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCategoryUrl, getPostSlug, getTagUrl } from "../../lib/posts";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog", ({ data }) => !data.draft);
+  return posts.map((post) => ({
+    params: { slug: getPostSlug(post) },
+    props: { post }
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+
+<BaseLayout title={post.data.title} description={post.data.description}>
+  <article class="article">
+    <header>
+      <p class="eyebrow">Blog post</p>
+      <h1>{post.data.title}</h1>
+      <div class="post-meta" style="margin-top:18px;">
+        <time datetime={post.data.date.toISOString()}>
+          {post.data.date.toLocaleDateString("en-ZA", { year: "numeric", month: "long", day: "numeric" })}
+        </time>
+        <a href={getCategoryUrl(post.data.category)}>{post.data.category}</a>
+        {post.data.originalUrl && <a href={post.data.originalUrl}>Original Blogger post</a>}
+      </div>
+      <ul class="tag-list">
+        {post.data.tags.map((tag) => <li><a class="tag" href={getTagUrl(tag)}>{tag}</a></li>)}
+      </ul>
+    </header>
+    <div class="article-body">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>
