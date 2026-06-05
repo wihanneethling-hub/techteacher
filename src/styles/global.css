@@ -295,7 +295,7 @@ h3 {
 
 .about-layout {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(320px, 410px);
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 420px);
   gap: clamp(30px, 6vw, 70px);
   align-items: start;
 }
@@ -311,8 +311,9 @@ h3 {
 }
 
 .profile-card {
-  position: sticky;
-  top: 100px;
+  width: 100%;
+  max-width: 420px;
+  justify-self: end;
   overflow: hidden;
   border: 1px solid var(--line);
   border-radius: var(--radius);
@@ -320,11 +321,17 @@ h3 {
   box-shadow: 0 22px 48px rgba(0, 31, 91, 0.12);
 }
 
-.profile-card img {
+.profile-image-frame {
+  aspect-ratio: 4 / 5;
+  margin: 0;
+  overflow: hidden;
+}
+
+.profile-image-frame img {
   width: 100%;
-  height: clamp(260px, 32vw, 330px);
+  height: 100%;
   object-fit: cover;
-  object-position: 36% center;
+  object-position: center;
 }
 
 .profile-card-body {
@@ -348,29 +355,25 @@ h3 {
   text-transform: uppercase;
 }
 
-.credential-list {
-  margin-top: 18px;
-}
-
-.credential-item {
+.credential-intro {
+  margin: 18px 0 0;
   border-top: 1px solid var(--line);
-  padding: 16px 0;
-}
-
-.credential-item h2 {
-  margin: 0 0 4px;
-  color: var(--brand-strong);
-  font-size: 1rem;
-}
-
-.credential-item p {
-  margin: 0;
+  padding-top: 16px;
   color: #344054;
   line-height: 1.5;
 }
 
+.credential-list {
+  display: grid;
+  gap: 6px;
+  margin: 16px 0 0;
+  padding-left: 20px;
+  color: #344054;
+  line-height: 1.45;
+}
+
 .profile-mission {
-  margin: 2px 0 0;
+  margin: 18px 0 0;
   border-top: 1px solid var(--line);
   padding-top: 16px;
   color: #24539b;
@@ -680,7 +683,7 @@ h3 {
   }
 
   .profile-card {
-    position: static;
+    justify-self: start;
   }
 
   .hero-copy {
