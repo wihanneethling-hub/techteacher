@@ -293,15 +293,16 @@ h3 {
   color: var(--muted);
 }
 
-.about-layout {
+.about-content {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(320px, 420px);
-  gap: clamp(30px, 6vw, 70px);
+  grid-template-columns: minmax(0, 680px) minmax(320px, 420px);
+  gap: 5rem;
   align-items: start;
+  margin-top: 3rem;
 }
 
 .about-copy {
-  max-width: 740px;
+  max-width: 680px;
 }
 
 .about-copy p:first-child {
@@ -321,17 +322,20 @@ h3 {
   box-shadow: 0 22px 48px rgba(0, 31, 91, 0.12);
 }
 
-.profile-image-frame {
+.profile-image-wrap {
+  width: 100%;
   aspect-ratio: 4 / 5;
   margin: 0;
   overflow: hidden;
+  border-radius: var(--radius) var(--radius) 0 0;
 }
 
-.profile-image-frame img {
+.profile-image-wrap img {
+  display: block;
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center;
+  object-position: center top;
 }
 
 .profile-card-body {
@@ -677,9 +681,13 @@ h3 {
 
   .hero-grid,
   .hero-feature,
-  .about-layout,
+  .about-content,
   .post-grid {
     grid-template-columns: 1fr;
+  }
+
+  .about-content {
+    gap: 2rem;
   }
 
   .profile-card {
