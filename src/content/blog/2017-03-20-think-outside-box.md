@@ -9,19 +9,11 @@ draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/03/think-outside-box.html"
 ---
 
-[
-
 ![](http://www.flubaroo.com/_/rsrc/1467124191195/newhome/Flubaroo_marquee_1400x560%20(1).png?width=800)
-
-](http://www.flubaroo.com/_/rsrc/1467124191195/newhome/Flubaroo_marquee_1400x560%20(1).png?width=800)
 
 I am always amazed when I get to watch someone who is truly talented in their field, regardless of what that may be. One of my kids' favourite things is watching "[people are awesome](https://www.youtube.com/user/Hadoukentheband)" videos on Youtube. The extreme dedication id takes to perfect your craft is something that I admire in extreme sports athletes.
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3eO1kzwn38EMsbTKzESyVVzZ_7MW52igwIn_Nk0oOrwvuwMA1iqfdL7l16j8jryh5l-vEQJeOp7TPOMUfixyoUF7C85YtR73isyNAZdqIxhz6yWs36mC4QjG0JMZIzufde47-7gm2te9/s640/motocross-rider-2085998_960_720.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3eO1kzwn38EMsbTKzESyVVzZ_7MW52igwIn_Nk0oOrwvuwMA1iqfdL7l16j8jryh5l-vEQJeOp7TPOMUfixyoUF7C85YtR73isyNAZdqIxhz6yWs36mC4QjG0JMZIzufde47-7gm2te9/s1600/motocross-rider-2085998_960_720.jpg)
 
 I'd like to think of creative arts teachers as the extreme sports stars of teaching. They regularly do things other teachers will not attempt in their right mind, yet in doing so they show students what they are capable of creating once they let go of the notion of "I can't".
 
@@ -29,11 +21,7 @@ One of the criticisms of teachers (often well justified!) is that they get used 
 
 Imagine a teacher taking one of my favourite tech add-ons and using it for something other than what was intended?! What madness is this you speak of?? Well, I guess they keep telling us that in this beautiful country of ours you need to be different to give yourself every chance of success by not following a mold. With unemployment a serious concern for every young South African, entrepreneurship is crucial. Maybe this mindset it what causes people to try and find a different way of using the same piece of tech?
 
-[
-
 ![](https://c1.staticflickr.com/5/4015/4334237247_08af133b4b_b.jpg)
-
-](https://c1.staticflickr.com/5/4015/4334237247_08af133b4b_b.jpg)
 
 [Flubaroo](http://www.flubaroo.com/) is one of my favourite add-ons for auto marking (or grading in the states). I've spent hours with the great [Flubaroo Joe](http://www.flubaroo.com/joe) tweaking spreadsheets to make sure it produces the correct outcome for students. But I have never thought of using it in the way one of my Art teachers did recently.
 

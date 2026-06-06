@@ -4,20 +4,16 @@ date: 2020-11-05
 slug: "onlinelearningteachers"
 category: "Leadership"
 tags: 
-  - "skills"
-  - "school"
-  - "teachers"
-  - "training"
+ - "skills"
+ - "school"
+ - "teachers"
+ - "training"
 description: "Learning online for teachers vs students"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2020/11/onlinelearningteachers.html"
 ---
 
-[
-
 ![](https://cdn.pixabay.com/photo/2018/05/19/00/53/online-3412473__340.jpg)
-
-](https://cdn.pixabay.com/photo/2018/05/19/00/53/online-3412473__340.jpg)
 
 Covid-19. Aah, the dreaded phrase. It has caused so much disruption to our day-to-day lives and we have had to learn to live with this dreaded disease. One of the things we have asked our students to get used to, is the idea of learning online. Zoom or Google Meet calls have become part of their routine. Learning looks and feels very different. Yet, if we're honest, most of them have dealt very well with all this change!
 

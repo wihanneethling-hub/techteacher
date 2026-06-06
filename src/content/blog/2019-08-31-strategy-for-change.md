@@ -9,11 +9,7 @@ draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/08/strategy-for-change.html"
 ---
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6p6QlX9LhKAknBf2bT5145UTlW0TQRdf6f0gHNtfoJO-pIOVo8tHuDgMWHZXD4jttm4Sr5ukJJsmN_NK-6ZiLLFhAwMDXSXfZ_YCwoqI-zfzbCWI7WQJevuHPtdSSM5R85zBGu9NcEXLI/s640/Screenshot+2019-08-31+at+05.39.27.png)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6p6QlX9LhKAknBf2bT5145UTlW0TQRdf6f0gHNtfoJO-pIOVo8tHuDgMWHZXD4jttm4Sr5ukJJsmN_NK-6ZiLLFhAwMDXSXfZ_YCwoqI-zfzbCWI7WQJevuHPtdSSM5R85zBGu9NcEXLI/s1600/Screenshot+2019-08-31+at+05.39.27.png)
 
 Yesterday I was fortunate enough to attend and present at the annual Strategy for Change Event held by Digicape. This is always an interesting day and yesterday didn't disappoint.
 

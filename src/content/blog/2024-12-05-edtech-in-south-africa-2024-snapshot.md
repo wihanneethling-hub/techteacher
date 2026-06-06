@@ -9,19 +9,15 @@ draft: false
 originalUrl: "https://www.thetechteacher.co.za/2024/12/edtech-in-south-africa-2024-snapshot.html"
 ---
 
-### [
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMYsgy-vF4sVn3XPCdj7tx3M2IiKQje_VYjwN2kkhJN6Mz1qOebRFlMv6bIUuNCOZkCRBN58MlGOMpFyyzdL8ZqA4ZHIP28WwkRIEOrO59eRnZYPvW6Fn1wVLhgRJvzUrS1XxozEc_fdqkfHaRYL9BxWwSF_rZ8nvQk1pvBeWSD2VLuxWeFQf1xF_swFFT/s320/IMG_0729.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMYsgy-vF4sVn3XPCdj7tx3M2IiKQje_VYjwN2kkhJN6Mz1qOebRFlMv6bIUuNCOZkCRBN58MlGOMpFyyzdL8ZqA4ZHIP28WwkRIEOrO59eRnZYPvW6Fn1wVLhgRJvzUrS1XxozEc_fdqkfHaRYL9BxWwSF_rZ8nvQk1pvBeWSD2VLuxWeFQf1xF_swFFT/s1179/IMG_0729.jpg)
 
 ### EdTech in South Africa: A 2024 Snapshot
 
 South Africa's educational technology (EdTech) sector is rapidly evolving, addressing critical challenges while leveraging innovative solutions to enhance learning experiences across the country. Below are some key trends and developments shaping the EdTech landscape in South Africa:
 
-1. Innovations in Basic EducationPlatforms like [Book Village](https://bookvillage.co.za/) and [Buzz Kidz](https://buzzkidz.org/)[ ](https://buzzkidz.org/)are transforming primary education by focusing on foundational skills. Book Village connects learners with global volunteer tutors to improve reading, while Buzz Kidz supports teachers in delivering creative arts education effectively.
+1. Innovations in Basic EducationPlatforms like [Book Village](https://bookvillage.co.za/) and [Buzz Kidz](https://buzzkidz.org/) are transforming primary education by focusing on foundational skills. Book Village connects learners with global volunteer tutors to improve reading, while Buzz Kidz supports teachers in delivering creative arts education effectively.
 
-2. Focus on STEM and Coding EducationSouth Africa is embracing STEM (Science, Technology, Engineering, and Mathematics) and coding programs to prepare students for the future job market. Initiatives such as [Code Club](https://codeclub.org/en/)[ ](https://codeclub.org/en/)and [Mindjoy](https://www.mindjoy.com/) introduce children to programming and technology through engaging projects and practical applications.
+2. Focus on STEM and Coding EducationSouth Africa is embracing STEM (Science, Technology, Engineering, and Mathematics) and coding programs to prepare students for the future job market. Initiatives such as [Code Club](https://codeclub.org/en/) and [Mindjoy](https://www.mindjoy.com/) introduce children to programming and technology through engaging projects and practical applications.
 
 3. Digital Accessibility and Localized LearningTo bridge the digital divide, platforms like [Ecolabs Africa](https://ecolabs.africa/) and [Grow ECD](https://www.growecd.org.za/) provide low-tech, cost-effective tools to rural and township schools. These solutions range from repurposing obsolete computer equipment to offering a management app for Early Childhood Development (ECD) centers.
 

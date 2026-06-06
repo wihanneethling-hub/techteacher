@@ -9,11 +9,7 @@ draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/12/ipad-pro-quick-review.html"
 ---
 
-[
-
 ![](https://i.ytimg.com/vi/-Hf5prRZIeg/maxresdefault.jpg)
-
-](https://i.ytimg.com/vi/-Hf5prRZIeg/maxresdefault.jpg)
 [The Verge Review](https://www.youtube.com/watch?v=-Hf5prRZIeg)
 
 So, I have had some time to get my hands nice and dirty with the new(ish) iPad Pro 10.5” over the last few days. I had been using the previous model for about 6 months and as a self-confessed Android-guy, I must admit that I had fallen in love with it just a little bit...But this new model takes it to a whole new level!
@@ -32,8 +28,4 @@ Speak soon,
 
 TTT
 
-[
-
 ![](https://render.bitstrips.com/v2/cpanel/45b46ee1-c505-4228-993b-11620893a41c-86511f76-d7b2-48ca-a95c-accfe831ea96-v1.png?transparent=1&palette=1)
-
-](https://render.bitstrips.com/v2/cpanel/45b46ee1-c505-4228-993b-11620893a41c-86511f76-d7b2-48ca-a95c-accfe831ea96-v1.png?transparent=1&palette=1)

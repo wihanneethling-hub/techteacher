@@ -12,21 +12,13 @@ originalUrl: "https://www.thetechteacher.co.za/2019/06/ipados-for-teachers.html"
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'}
 p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; min-height: 14.0px}
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgACmsCYC2d6IPxhgc7q-JR4HVrM_eDHHOOlmHhBfVY0pZAreiDgMfL35J8577QTCe56mNBDr9rL7q0EGR39APBrphsNqPjrLuA5aJ6VyjavF8h80q0GpSOf77bXWER0o5I4are5N2L7aN8/s320/ipados.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgACmsCYC2d6IPxhgc7q-JR4HVrM_eDHHOOlmHhBfVY0pZAreiDgMfL35J8577QTCe56mNBDr9rL7q0EGR39APBrphsNqPjrLuA5aJ6VyjavF8h80q0GpSOf77bXWER0o5I4are5N2L7aN8/s1600/ipados.jpg)
 
 Like a proper tech guy, I spent the majority of Monday evening watching the live stream of Apple's WWDC event.
 
 I watched Tim Cook announce the latest developments in new software as well as one notable new piece of hardware. I just heard today that the top spec'd Mac Pro would set you back over R500,000...yikes! Also, did someone say cheese?
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiEh-BlD-j1981zyzdVgX3TH-NkaqfO20mA6cLOl0dxhNqhWn3pfmadcHJ3_TXeymokZNv7O5aQ7pMqmv7aU0q5MNhyphenhyphenVqAnhxWEvKllF7MSxa8jq0ft1IdjhW9cSUpLVd8rJzobhW_d42X/s320/macpro.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiEh-BlD-j1981zyzdVgX3TH-NkaqfO20mA6cLOl0dxhNqhWn3pfmadcHJ3_TXeymokZNv7O5aQ7pMqmv7aU0q5MNhyphenhyphenVqAnhxWEvKllF7MSxa8jq0ft1IdjhW9cSUpLVd8rJzobhW_d42X/s1600/macpro.jpg)
 
 But let’s talk about iPadOS!
 

@@ -11,11 +11,7 @@ originalUrl: "https://www.thetechteacher.co.za/2020/04/learning-from-home-differ
 
 25th March 2020. My birthday this year will forever be remembered as the strangest one yet. Locked up at home without being able to see anyone apart from your immediate family. Granted, my wife and kids are awesome and made the day so much fun (a treasure hunt for presents and being waited on hand and foot to name but a few examples) but I had to make do with video calls from friends and family rather than a proper celebration.
 
-[
-
 ![](https://sdk.bitmoji.com/render/panel/436bed32-ab83-4942-a5fb-a2b9066e00ed-13a9a5af-f157-47d3-b6f0-4137854e2d61-v1.png?transparent=1&palette=1)
-
-](https://sdk.bitmoji.com/render/panel/436bed32-ab83-4942-a5fb-a2b9066e00ed-13a9a5af-f157-47d3-b6f0-4137854e2d61-v1.png?transparent=1&palette=1)
 
 And in much the same way, schools now have to think of inventive ways to keep the learning going.
 

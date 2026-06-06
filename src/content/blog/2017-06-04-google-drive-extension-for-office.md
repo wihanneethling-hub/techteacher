@@ -9,11 +9,7 @@ draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/06/google-drive-extension-for-office.html"
 ---
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia-o7xVKTjVitafxjzJsdzY38WnP3PeAApkqVPXxTHwNuYx6rt0PYHVu_I56v2qUX9F342GteAsil5-jQ13Xf0U4vKclYbMxC3g5eoUma0MtpooEBkq7xeFpbXMHHbxSvz20BD3_Tytes4/s400/Google+Drive+plugin.png)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia-o7xVKTjVitafxjzJsdzY38WnP3PeAApkqVPXxTHwNuYx6rt0PYHVu_I56v2qUX9F342GteAsil5-jQ13Xf0U4vKclYbMxC3g5eoUma0MtpooEBkq7xeFpbXMHHbxSvz20BD3_Tytes4/s1600/Google+Drive+plugin.png)
 
 In the tech world, when you come across something that has been around for a while, it is like arriving at a party an hour late. You feel a little bit silly for having missed out on some of the initial fun, but it doesn't really matter if the rest of the party is amazing!
 
@@ -21,11 +17,7 @@ This is how I felt last week when I discovered the [Google Drive plugin for Offi
 
 By installing the [Google Drive plugin for Office](https://tools.google.com/dlpage/driveforoffice), users have the option to save files directly into their Google Drive from within Word, Powerpoint or Excel.
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlAwih1pcUJodgm8IcRNadReQIk2xT5BXmzytY3vupTdYrz5gY5nWuUV9acnay4bGw9pCgMg_3Y6NTwBKT4SzJsdqbXHv9ArXsojMfbUsmEbzlEDYvtFKlBlJpNhEDCfAy_7cVtjKhlatf/s640/Gdrive+plugin.gif)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlAwih1pcUJodgm8IcRNadReQIk2xT5BXmzytY3vupTdYrz5gY5nWuUV9acnay4bGw9pCgMg_3Y6NTwBKT4SzJsdqbXHv9ArXsojMfbUsmEbzlEDYvtFKlBlJpNhEDCfAy_7cVtjKhlatf/s1600/Gdrive+plugin.gif)
 
 This is a game changer for some people who would previously dismiss the idea of using Google to store their files as they are not happy using Docs, Slides or Sheets. I am a massive fan of being able to use software the way you would like to, and not ONLY the way the creators intended! 
 

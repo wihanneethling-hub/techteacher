@@ -4,9 +4,9 @@ date: 2017-02-16
 slug: "the-teachers-dilemma"
 category: "AI"
 tags: 
-  - "skills"
-  - "tech"
-  - "EdTech"
+ - "skills"
+ - "tech"
+ - "EdTech"
 description: "How can we prepare students for standardised tests at the end of high school and still teach them valuable 21st Century Skills necessary to be successfu..."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/02/the-teachers-dilemma.html"

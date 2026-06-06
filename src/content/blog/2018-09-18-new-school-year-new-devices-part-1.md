@@ -4,18 +4,14 @@ date: 2018-09-18
 slug: "new-school-year-new-devices-part-1"
 category: "Leadership"
 tags: 
-  - "EdTech"
-  - "Apple"
+ - "EdTech"
+ - "Apple"
 description: "Some tips for a device strategy - Part 1"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2018/09/new-school-year-new-devices-part-1.html"
 ---
 
-[
-
 ![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ios11-3-ipad-9-7-in-2018.jpg)
-
-](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ios11-3-ipad-9-7-in-2018.jpg)
 
 New school year, new devices.
 
@@ -59,11 +55,7 @@ An important element for us to consider was the inclusion of a solid case with i
 
 One of the downsides to the non-pro version of the iPad is the lack of magnet for the [Smart Keyboard](https://www.apple.com/za/smart-keyboard/) (which doesn’t need a Bluetooth connection or charging). Fortunately, the Logitech [Rugged Keyboard Combo](https://www.logitech.com/en-us/product/ruggedcombo2) case has a built-in magnet for making a seamless connection to the keyboard. The sturdy case will also help protect the iPad against drops from up to 4 ft and is spill proof, so little accidents shouldn’t cause too much damage.
 
-[
-
 ![](https://blog.logitech.com/wp-content/uploads/2018/03/Combo.jpg)
-
-](https://blog.logitech.com/wp-content/uploads/2018/03/Combo.jpg)
 
 **
 **

@@ -4,11 +4,11 @@ date: 2018-10-03
 slug: "who-are-the-most-important-people-in-school"
 category: "Leadership"
 tags: 
-  - "GSuite"
-  - "Apple"
-  - "Explaneverything"
-  - "teachers"
-  - "training"
+ - "GSuite"
+ - "Apple"
+ - "Explaneverything"
+ - "teachers"
+ - "training"
 description: "How to prepare your teachers for digital learning."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2018/10/who-are-the-most-important-people-in-school.html"
@@ -18,11 +18,7 @@ New school year, new devices. Part 2
 
 So in my previous post I outlined how excited we are about the new devices and accessories we will be dishing out to our new students next year. Today I want to chat about how we are going to (try!) make sure students get the most out of these devices.
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEher892iITdXvQipqHN2VfS8vGvL3XwpXCi0wFQAjXILW41bzUKIN_dXwjLzq3dhJ6jHqUUO0u-0BKJxbX8UHguSHmo1xoxCqyL4IOBBnBxFVIfB8EBHv7j2ccS_if5W58GRFMQydXjdt5b/s320/5494058065_998c280ca2_b.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEher892iITdXvQipqHN2VfS8vGvL3XwpXCi0wFQAjXILW41bzUKIN_dXwjLzq3dhJ6jHqUUO0u-0BKJxbX8UHguSHmo1xoxCqyL4IOBBnBxFVIfB8EBHv7j2ccS_if5W58GRFMQydXjdt5b/s1600/5494058065_998c280ca2_b.jpg)
 
 But first a question:
 
@@ -41,18 +37,10 @@ This has afforded us the opportunity to take the time to prepare teachers for wh
 
 So how exactly did we do it? Well, teachers were placed in groups of 3 and sorted by their technological ability. This was the most difficult part and the old adage of "you can please most people most of the time" was never truer. Still - teachers have a timetabled slot for Tech Training where they see me in their group once a fortnight. We have a dedicated training venue that is designed to make them feel comfortable and also to be something different - it doesn't look like a classroom or meeting room.
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwp9HQd1ZK6xKXpcVo03oRLcExluKdV6eZwjxUajFpVHVTrdYjQYEJrIDBEr1rO7zfyOh7MLVzLVoGPFsb6Hb1Im46I6JPGTB4A5foi4TvKvESpD6ZLntxN7TtcTm1bwk_9dYy72pzb5Eu/s320/IMG_1366.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwp9HQd1ZK6xKXpcVo03oRLcExluKdV6eZwjxUajFpVHVTrdYjQYEJrIDBEr1rO7zfyOh7MLVzLVoGPFsb6Hb1Im46I6JPGTB4A5foi4TvKvESpD6ZLntxN7TtcTm1bwk_9dYy72pzb5Eu/s1600/IMG_1366.jpg)
 Bean bag!
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM8MHwUhvuS3zFNnXMhyphenhyphenJ3Cnthmx8_bzV4k4xgdXip9vsk8f4bzDpWS3IHThXGrCSebezrJ_MbnpLSqn_5IXHW_6VpmPLElFOjnb6_iuuhAW-p6EIiTISbzDB_v896pmnKUDw05YZ2b8Dh/s320/IMG_1368.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM8MHwUhvuS3zFNnXMhyphenhyphenJ3Cnthmx8_bzV4k4xgdXip9vsk8f4bzDpWS3IHThXGrCSebezrJ_MbnpLSqn_5IXHW_6VpmPLElFOjnb6_iuuhAW-p6EIiTISbzDB_v896pmnKUDw05YZ2b8Dh/s1600/IMG_1368.jpg)
 No desks
 
 We progress through our own training, tailored to the needs of each group and teachers have recently begun documenting their tech journey in a blog which they share with me. We keep a training diary of what is covered in each session and this can be referred back to later on if need be.

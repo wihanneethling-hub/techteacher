@@ -4,19 +4,15 @@ date: 2019-03-12
 slug: "schools-why-tech-projects-fail"
 category: "Leadership"
 tags: 
-  - "tech"
-  - "EdTech"
-  - "teachers"
+ - "tech"
+ - "EdTech"
+ - "teachers"
 description: "Some thoughts on why technology projects fail or do not work."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/03/schools-why-tech-projects-fail.html"
 ---
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyzJ3nYTxOHoweLDACXdjEvl73tK6DSvsKvhDDmp0NIp90BY4zD2QCqgxFw7hFDzkVELIxh0S8ZMAkXbYRJTybIpoImYOtKIhNzNISHlHz0K2h7-1cd19U4wNGhYfnikTfOVqW1zAvdOrQ/s400/APPY+HOUR.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyzJ3nYTxOHoweLDACXdjEvl73tK6DSvsKvhDDmp0NIp90BY4zD2QCqgxFw7hFDzkVELIxh0S8ZMAkXbYRJTybIpoImYOtKIhNzNISHlHz0K2h7-1cd19U4wNGhYfnikTfOVqW1zAvdOrQ/s1600/APPY+HOUR.jpg)
 
 Appy Hour @Rustenburg Girls' High
 
@@ -30,11 +26,7 @@ Having someone on staff who is on-hand to deliver regular training (timetabled i
 ### 
 2. Not enough money spent on infrastructure
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM5FOiemdhn10_w5gTG1CtZCWGj37OkyhnAFKzvV71eP_Idtql4V_GF2uJwqIXe_oeVkC_rGYz3xyN6K8riaeYjfW9bDIMYZOfPSd8M8FVuGjwthKIn2davXqOGAArXynCi6suJdoVUQRP/s400/ibrahim-rifath-789914-unsplash.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM5FOiemdhn10_w5gTG1CtZCWGj37OkyhnAFKzvV71eP_Idtql4V_GF2uJwqIXe_oeVkC_rGYz3xyN6K8riaeYjfW9bDIMYZOfPSd8M8FVuGjwthKIn2davXqOGAArXynCi6suJdoVUQRP/s1600/ibrahim-rifath-789914-unsplash.jpg)
 
 Photo by [Ibrahim Rifath](https://unsplash.com/photos/OApHds2yEGQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/vision?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -47,11 +39,7 @@ Along with having solid Wi-fi, I would also recommend having access to a very re
 ### 
 3. Vision/direction doesn't come from the top
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNHJ0yLVSlEtQkgy_K2YPqvK46pmsVNR4uaA0xFnd4JH4scZWAvpGsxyfwrjlQ89GKMFb_lncl_R_bTh8PgCEgACqPgrOACZFKvWLgpuU6kb4br4hDyCSyfhcUqufjVQ1Rjq3EJPF-MFL/s400/clem-onojeghuo-143743-unsplash.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNHJ0yLVSlEtQkgy_K2YPqvK46pmsVNR4uaA0xFnd4JH4scZWAvpGsxyfwrjlQ89GKMFb_lncl_R_bTh8PgCEgACqPgrOACZFKvWLgpuU6kb4br4hDyCSyfhcUqufjVQ1Rjq3EJPF-MFL/s1600/clem-onojeghuo-143743-unsplash.jpg)
 
 Photo by [Clem Onojeghuo](https://unsplash.com/photos/TI-mxzGbsmk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/vision?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

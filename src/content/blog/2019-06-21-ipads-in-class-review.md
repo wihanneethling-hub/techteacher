@@ -29,11 +29,7 @@ This year in January we started our roll-out of devices with students. Every Gra
 
 We are currently in the process of discussing with teachers their take on how things have gone thus far, and it will culminate in a survey to gather some quantitative data. We did a similar survey with students earlier in the year and the results were quite surprising - they pretty much use their devices in every lesson in one way or another and most of the time, all the time. Which is surprising if you know my teachers!
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1Jgk39gBhZ-ImhuVABSO_RQobCR2C0S9OQ5iUzfoTyrXqfBN1HgaPAn1mkDW8XrMAXs0fsjVa1UYed03gfJ8zyPf9R80WFwXMMjnFZHmFmKnu2rGm8vFxKWq7Lnf-dH9lzeDJ-uwPwrr/s320/aaron-burden-123584-unsplash.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1Jgk39gBhZ-ImhuVABSO_RQobCR2C0S9OQ5iUzfoTyrXqfBN1HgaPAn1mkDW8XrMAXs0fsjVa1UYed03gfJ8zyPf9R80WFwXMMjnFZHmFmKnu2rGm8vFxKWq7Lnf-dH9lzeDJ-uwPwrr/s1600/aaron-burden-123584-unsplash.jpg)
 Photo by @aaronburden from @unsplash
 
 The plan this term is to do more lesson drop-ins and take a deeper look at exactly HOW the students are using the devices. How effective_ are they in using it? Does it add value to the learning process or is it merely a replacement for a piece of paper?
@@ -51,11 +47,7 @@ When the rubber hits the road and you ask teachers to get off the fence and tell
 
 ## 
 Steps forward 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRy3SkB6wl6EZLs-ARdc4rqs6Un_Co2IHnpZYwuI-qUG0WphhtyRSCvhrsxkltiHMuJFVvv4LypgpJ0pKP2OUjA7Sf0MfYkqyFwNvI1J6FeGh0N9usk62-qqCHAgyhy6DcCj0JLbZaYaGd/s320/rist-art-345630-unsplash.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRy3SkB6wl6EZLs-ARdc4rqs6Un_Co2IHnpZYwuI-qUG0WphhtyRSCvhrsxkltiHMuJFVvv4LypgpJ0pKP2OUjA7Sf0MfYkqyFwNvI1J6FeGh0N9usk62-qqCHAgyhy6DcCj0JLbZaYaGd/s1600/rist-art-345630-unsplash.jpg)
 
 We have definitely identified a few things that we would like to do differently with our next roll-out. We use [Snapplify](https://www.snapplify.com/) as our textbooks platform and the way in which we distribute textbooks can definitely be improved. Parents are able to load books directly onto their child's account which removes the middleman (ie the school). Uh yes please, let's do that instead!
 

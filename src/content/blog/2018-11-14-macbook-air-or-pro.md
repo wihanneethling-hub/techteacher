@@ -4,7 +4,7 @@ date: 2018-11-14
 slug: "macbook-air-or-pro"
 category: "Technology"
 tags: 
-  - "Apple"
+ - "Apple"
 description: "Which Macbook is right for me? Some pro's and cons of The new Air vs the 2017 Macbook Pro non-touch bar."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2018/11/macbook-air-or-pro.html"

@@ -4,9 +4,9 @@ date: 2017-02-20
 slug: "5-ways-to-deliver-punchy-presentations"
 category: "Leadership"
 tags: 
-  - "presentation"
-  - "tech"
-  - "EdTech"
+ - "presentation"
+ - "tech"
+ - "EdTech"
 description: "How can you make sure your presentation has what it takes to keep your audience engaged?"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/02/5-ways-to-deliver-punchy-presentations.html"
@@ -27,11 +27,7 @@ An overused cliché that still rings true. Trying to convey 13 separate points i
 
 2. Start with a probing question or an interesting fact or a controversial statement.
 
-[
-
 ![](http://www.publicdomainpictures.net/pictures/40000/velka/question-mark.jpg)
-
-](http://www.publicdomainpictures.net/pictures/40000/velka/question-mark.jpg)
 
 Getting the audience to think or reflect on something relevant to the topic will focus their attention from the start and also sets the tone for what is to come. Forcing people to think about their opinion on a matter immediately makes them ready to listen and either be proven wrong or vindicated. Some good examples I have seen include:
 
@@ -46,35 +42,23 @@ These opening lines are bound to grasp someone's attention and then, as the sayi
 
 3. Use fewer words.
 
-[
-
 ![](https://c1.staticflickr.com/2/1596/24234377672_1d8a9ce530_b.jpg)
-
-](https://c1.staticflickr.com/2/1596/24234377672_1d8a9ce530_b.jpg)
 
 Having lots of writing on the screen behind you is a sure way to get people to ignore you. [65% of the population consists of visual learners](http://www.phschool.com/eteach/social_studies/2003_05/essay.html) which means two-thirds of your audience will be reading the words on-screen rather than listening to you. 
 
 ### 
 4. Be consistent in your choice of colours.
 
-[
-
 ![](https://c1.staticflickr.com/3/2817/9235381405_2bf08fe518_b.jpg)
-
-](https://c1.staticflickr.com/3/2817/9235381405_2bf08fe518_b.jpg)
 
 Brightening things up with a splash of colour is not a bad idea, as long as the colours you choose remain consistent throughout. Jumping from blues to reds to greens does not create a feeling of unity, but rather of someone who is desperately trying to keep your attention by flooding your senses. It tends to have the same effect on attention as sugar does on the body- it works quickly for a short time, but then drops severely afterwards. Rather choose a few [good colour combinations](https://designschool.canva.com/blog/website-color-schemes/) and stick with them throughout the talk.
 ### 
 
 5. Involve your audience.
 
-[
-
 ![](https://upload.wikimedia.org/wikipedia/commons/1/18/EXIT_2012_Audience_(1).jpg)
 
-](https://upload.wikimedia.org/wikipedia/commons/1/18/EXIT_2012_Audience_(1).jpg)
-
-Very few speakers are so entertaining that they can afford to have their audience sitting still, listening passively for a prolonged period of time. Stand-up comedians do it, but hey, that's why they get paid the big bucks! Try to involve your audience. This could be through the use of polling software such as [Polleverywhere](https://www.polleverywhere.com/), a Twitter wall with live updates (an app like [Twitterfall ](https://twitterfall.com/)works very well) or merely getting them to participate in a  group task. Breaking up a long talk with some audience engagement is a must.
+Very few speakers are so entertaining that they can afford to have their audience sitting still, listening passively for a prolonged period of time. Stand-up comedians do it, but hey, that's why they get paid the big bucks! Try to involve your audience. This could be through the use of polling software such as [Polleverywhere](https://www.polleverywhere.com/), a Twitter wall with live updates (an app like [Twitterfall ](https://twitterfall.com/)works very well) or merely getting them to participate in a group task. Breaking up a long talk with some audience engagement is a must.
 
 So there you have it. 5 ways to create presentations that pack a punch. What do you think? Did I miss any out? Leave a comment below!
 

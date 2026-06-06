@@ -11,11 +11,7 @@ originalUrl: "https://www.thetechteacher.co.za/2019/08/6-misconceptions-about-pa
 
 Guest Post by Techwarn
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgowRBPMhhNcuvBggYMw_GG1vQPTDTZJiVxbguKQBcDOm8bgaIf0T2vByWMEG-UeqgthndDSCXj26NACVFt-xI-0kVGqgr7LeMN4dumGxW4gxboZmFq0iG-H_DLnjeZ4BmpCscWDrkiNBYL/s400/Ma7O3FLQS3u20ygXOk5oNg_thumb_18.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgowRBPMhhNcuvBggYMw_GG1vQPTDTZJiVxbguKQBcDOm8bgaIf0T2vByWMEG-UeqgthndDSCXj26NACVFt-xI-0kVGqgr7LeMN4dumGxW4gxboZmFq0iG-H_DLnjeZ4BmpCscWDrkiNBYL/s1600/Ma7O3FLQS3u20ygXOk5oNg_thumb_18.jpg)
 
 Do you take a
 cursory glance at your phone only for it to be unlocked as fast as possible,
@@ -27,7 +23,7 @@ soon.
 You might be
 surprised to find out that passwords are actually still one of the most secure
 options out there, and it’s not going anywhere anytime soon, and that is just
-one of the common myths.  
+one of the common myths. 
 
 Here are a few
 more [**password
@@ -70,7 +66,7 @@ five websites requiring logins right now, and you’ll see that almost all of th
 quickly form an impression in your mind that eight (8) characters are all you
 need for a strong password.
 
-[](https://www.blogger.com/null)Before picking a password, always know that [**every extra
+ Before picking a password, always know that [**every extra
 character you add reduces the chances of having such a password cracked by far**](https://resources.infosecinstitute.com/password-security-complexity-vs-length/).
 Interestingly, the addition of every character makes your password harder to
 guess exponentially, not linearly. 
@@ -79,11 +75,7 @@ In layman terms,
 all those extra characters count more than you know.
 ## 
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlxwLF_UTMnXcXDBK8eCZ3K2q0UCoKD2N7Yh4z0m7TwWuvfUw97v3Solc8CpghVZJayu-f3hkpWy8-OgVU8gPRuC8AuNt4fisdGbPpjp8-m_hTikH9ggk50cSwU62_aWAcEp6ZeeFb7dvI/s400/matthew-brodeur-zEFyM4sulJ8-unsplash.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlxwLF_UTMnXcXDBK8eCZ3K2q0UCoKD2N7Yh4z0m7TwWuvfUw97v3Solc8CpghVZJayu-f3hkpWy8-OgVU8gPRuC8AuNt4fisdGbPpjp8-m_hTikH9ggk50cSwU62_aWAcEp6ZeeFb7dvI/s1600/matthew-brodeur-zEFyM4sulJ8-unsplash.jpeg)
 ## 
 
 ## 
@@ -111,11 +103,7 @@ You should try to keep your passwords as close to 17 characters as possible, if 
 more. For very sensitive data (say, a blockchain wallet), go all out and spend
 as much as 23 characters on that account.
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9RIe-4MzxwgPXG1LVdocvhlpRPcIe9Cb8Mly-IQsW6t6v8yc_I3yE8CW8x1cXDtQD0jy_yQSlvOPwm7xeKzDANqyrMFKDGCNRGn0BidjrafqO-IZwYrXe6zegdPUg8jYytdG_Rv9B3R0E/s320/erik-eastman-yiptq3TFiX8-unsplash.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9RIe-4MzxwgPXG1LVdocvhlpRPcIe9Cb8Mly-IQsW6t6v8yc_I3yE8CW8x1cXDtQD0jy_yQSlvOPwm7xeKzDANqyrMFKDGCNRGn0BidjrafqO-IZwYrXe6zegdPUg8jYytdG_Rv9B3R0E/s1600/erik-eastman-yiptq3TFiX8-unsplash.jpg)
 
 ## 
 4 Passwords have to be specific

@@ -4,17 +4,13 @@ date: 2023-05-18
 slug: "chatgpt-in-the-classroom"
 category: "AI"
 tags: 
-  - "ChatGPT"
+ - "ChatGPT"
 description: "5 Effective ways to use ChatGPT in the classroom and which prompts to use."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2023/05/chatgpt-in-the-classroom.html"
 ---
 
-[
-
 ![](https://blog.limewire.com/content/images/size/w1200/2023/11/A-Robot-Writing-AI-Prompts.jpg)
-
-](https://blog.limewire.com/content/images/size/w1200/2023/11/A-Robot-Writing-AI-Prompts.jpg)
 
 Recently, in pretty much all of my professional development sessions, the most requested topic has been ChatGPT. And with good reason! The AI chatbot from OpenAI has taken the world by storm and caused quite a stir in classrooms around the world.
 
@@ -44,7 +40,7 @@ Prompt:
 
 "Assume you are [insert famous person e.g. Steve Jobs]. Read my argument below and give me feedback as if you were [insert person again]"
 
-[insert your argument]  
+[insert your argument] 
 
 3. As a revision tool for learners:
 

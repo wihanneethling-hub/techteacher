@@ -4,8 +4,8 @@ date: 2017-03-14
 slug: "automation-for-teachers"
 category: "Technology"
 tags: 
-  - "Tech Tips"
-  - "EdTech"
+ - "Tech Tips"
+ - "EdTech"
 description: "How to automate mundane tasks for teachers."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/03/automation-for-teachers.html"
@@ -25,44 +25,28 @@ IFTTT has been around for a while now, but it keeps get better and better as new
 
 2. Email rules (Outlook) and filters (Gmail)
 
-[
-
 ![](http://core0.staticworld.net/images/article/2013/05/gmail-vs-outlook-100035851-gallery.png)
-
-](http://core0.staticworld.net/images/article/2013/05/gmail-vs-outlook-100035851-gallery.png)
 Spending some time setting these up is a fantastic way to stay organised and will make finding emails so much easier when you need to. The way it is done is slightly different in each app, but the idea is the same. You set certain parameters, and those actions are performed when email arrives that meet the criteria. A common use case would be to move all email from Person X to a dedicated folder (or add to label in Gmail) or immediately send it to the bin if it is from Mr Annoying!
 
 3. [Flubaroo](http://www.flubaroo.com/)
 
-[
-
 ![](http://www.flubaroo.com/_/rsrc/1467124193903/home/Flubaroo_small_promo_440x280.png)
-
-](http://www.flubaroo.com/_/rsrc/1467124193903/home/Flubaroo_small_promo_440x280.png)
 
 Flubaroo must be one of my favourite time-saving tools. Create a quiz or test in [Google Forms](https://www.google.com/forms/about/) and let Flubaroo mark it automatically! I use this app often (like today when my teachers did a quiz on how well they knew [SMART Notebook](https://education.smarttech.com/products/notebook)) and my favourite feature is that it can automatically email a student his grade after they submit their answers! Pure magic. Oh, and the support is amazing. Problems are dealt with quickly in the [support forum](https://groups.google.com/forum/#!forum/flubaroo-discussion-forum) and to quote [@TammyDunbar](https://twitter.com/TammyDunbar?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) from her appearance on the [Teachercast](http://www.teachercast.net/) Podcast: "It's the teacher's favourite F-word...free."
 
 4. Location based reminders
 
-[
-
 ![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc-wf_47xjx1tcrHES--8QVh0AF0bBVTAW1mNVG5ekkabZNXXpvg)
-
-](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc-wf_47xjx1tcrHES--8QVh0AF0bBVTAW1mNVG5ekkabZNXXpvg)
 
 Setting reminders based on your location is another fantastic feature in modern mobile devices that helps you to stay on top of things. Google Now, Google [Keep](http://www.techrepublic.com/article/pro-tip-create-location-based-reminders-in-google-keep/), [Apple](https://support.apple.com/en-us/HT205890) or even [Microsoft Cortana](http://www.windowscentral.com/how-create-reminders-using-cortana-windows-10) will remind you to do something when you arrive at a specific location. Where this works so well, is that it doesn't clog your to-do list with things that you can't mark as done because you're not in the right place to do them! I use it constantly to remind me to do something when I get to work or home, and also being able to use my voice to set these reminders just adds to the convenience factor.
 
 5. Keyboard shortcuts
 
-[
-
 ![](https://c1.staticflickr.com/4/3133/3248317574_4653ac38e3_b.jpg)
-
-](https://c1.staticflickr.com/4/3133/3248317574_4653ac38e3_b.jpg)
 
 The last one is not really automation (so shoot me!), but it DOES help you do something that would usually take longer! Hard to master, but invaluable once you know them. Spending some time learning a few handy keyboard shortcuts is another great way to save some time when you're just trying to get things done.
 
-Sure, it may only seem like a second or two, but it adds up quickly! I hardly ever use my mouse when browsing in Google Chrome (Ctrl + T  for new tab, Ctrl + W to close tab...etc.) and the same efficiency can certainly be applied in most other environments on your computer. Below is a list of where to find some useful shortcuts on the web:
+Sure, it may only seem like a second or two, but it adds up quickly! I hardly ever use my mouse when browsing in Google Chrome (Ctrl + T for new tab, Ctrl + W to close tab...etc.) and the same efficiency can certainly be applied in most other environments on your computer. Below is a list of where to find some useful shortcuts on the web:
 
 [Alt-codes](http://www.alt-codes.net/) (for inserting special characters - great for linguists)
 

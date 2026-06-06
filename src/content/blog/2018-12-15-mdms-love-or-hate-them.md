@@ -13,11 +13,7 @@ With the country's teachers all going on holiday last week, I was looking forwar
 
 Next week we have to onboard all our new iPads in preparation for our rollout in January. We have decided to change from Apple's own Profile Manager (which we currently use to manage our relatively small fleet of devices) to [Zuludesk](https://www.zuludesk.com/). This will be a new experience for all of us and we are both nervous and excited to experiment with what it has to offer.
 
-[
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSRlEVvRZA3Twbt5YdKXdQqPiqqZ3nJTw3S-ETLnCBni549lvNjYVgmqWiglk8dRWkOJrqTgfsjXflZtqoELyxLy9SWwtnbXtypPA6KqeYzmAheAXVeyLqgkWRs85jPajLk7uxByfF52SY/s400/zuludesk_from_utility_rentals.jpg)
-
-](https://www.zuludesk.com/)
 
 We are also making up our minds about what to do regarding our setup for [Apple Classroom](https://support.apple.com/en-za/HT206151) - do we want teachers to have more control and create their own (ad-hoc) classes or do we want to make it simple for them that when they log on they already have all their classes created with students enrolled and ready to go?
 
