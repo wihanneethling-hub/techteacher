@@ -650,6 +650,213 @@ h3 {
   font-weight: 700;
 }
 
+.profile-hero {
+  border-bottom: 1px solid var(--line);
+  background:
+    linear-gradient(135deg, rgba(231, 242, 255, 0.96), rgba(255, 255, 255, 0.9)),
+    var(--paper);
+  padding: clamp(42px, 7vw, 82px) 0;
+}
+
+.profile-hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 380px);
+  gap: clamp(32px, 6vw, 72px);
+  align-items: center;
+}
+
+.profile-hero-copy {
+  max-width: 760px;
+}
+
+.profile-hero h1 {
+  max-width: none;
+  font-size: clamp(3rem, 7vw, 5.6rem);
+}
+
+.profile-subtitle {
+  margin: 14px 0 26px;
+  color: #24539b;
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  font-weight: 800;
+}
+
+.profile-quote-card {
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.94);
+  box-shadow: 0 22px 48px rgba(0, 31, 91, 0.12);
+}
+
+.profile-quote-image {
+  aspect-ratio: 4 / 5;
+  margin: 0;
+  overflow: hidden;
+}
+
+.profile-quote-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.profile-quote-card blockquote {
+  margin: 0;
+  border-top: 1px solid var(--line);
+  color: var(--brand-strong);
+  font-size: 1.35rem;
+  font-weight: 850;
+  line-height: 1.25;
+  padding: 24px;
+}
+
+.profile-page {
+  display: grid;
+  gap: clamp(42px, 7vw, 76px);
+}
+
+.profile-section h2 {
+  max-width: 18ch;
+}
+
+.profile-prose {
+  max-width: 760px;
+}
+
+.profile-prose p {
+  margin: 1.05em 0;
+}
+
+.profile-philosophy {
+  display: grid;
+  grid-template-columns: minmax(240px, 0.55fr) minmax(0, 1fr);
+  gap: clamp(24px, 5vw, 56px);
+  border: 1px solid rgba(11, 131, 255, 0.24);
+  border-radius: var(--radius);
+  background:
+    linear-gradient(135deg, rgba(231, 242, 255, 0.96), rgba(255, 255, 255, 0.96));
+  padding: clamp(24px, 4vw, 38px);
+  box-shadow: 0 18px 40px rgba(0, 31, 91, 0.08);
+}
+
+.profile-philosophy h2 {
+  max-width: 13ch;
+}
+
+.section-header.compact {
+  margin-bottom: 18px;
+}
+
+.experience-timeline {
+  display: grid;
+  gap: 16px;
+}
+
+.experience-card {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  gap: 24px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  padding: clamp(20px, 4vw, 28px);
+}
+
+.experience-date {
+  color: var(--brand-strong);
+  font-size: 0.9rem;
+  font-weight: 850;
+}
+
+.experience-org {
+  margin: 8px 0 12px;
+  color: #24539b;
+  font-weight: 800;
+}
+
+.experience-card ul,
+.expertise-list,
+.highlight-grid {
+  padding: 0;
+  list-style: none;
+}
+
+.experience-card ul {
+  display: grid;
+  gap: 6px;
+  margin: 16px 0 0;
+}
+
+.experience-card li,
+.highlight-grid li {
+  position: relative;
+  padding-left: 20px;
+}
+
+.experience-card li::before,
+.highlight-grid li::before {
+  position: absolute;
+  left: 0;
+  color: var(--brand);
+  content: "•";
+  font-weight: 900;
+}
+
+.profile-two-column {
+  display: grid;
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+  gap: 18px;
+}
+
+.profile-panel {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  padding: clamp(20px, 4vw, 28px);
+}
+
+.education-list {
+  display: grid;
+  gap: 18px;
+  margin-top: 22px;
+}
+
+.education-list p {
+  margin: 5px 0 0;
+  color: var(--muted);
+}
+
+.expertise-list,
+.highlight-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 22px 0 0;
+}
+
+.expertise-list li {
+  border: 1px solid rgba(11, 131, 255, 0.2);
+  border-radius: var(--radius);
+  background: var(--accent-soft);
+  color: var(--brand-strong);
+  font-size: 0.92rem;
+  font-weight: 750;
+  padding: 8px 10px;
+}
+
+.highlight-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px 18px;
+}
+
+.highlight-grid li {
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 12px;
+}
+
 .contact-band {
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
@@ -686,6 +893,11 @@ h3 {
   .hero-grid,
   .hero-feature,
   .about-content,
+  .profile-hero-grid,
+  .profile-philosophy,
+  .experience-card,
+  .profile-two-column,
+  .highlight-grid,
   .post-grid {
     grid-template-columns: 1fr;
   }
