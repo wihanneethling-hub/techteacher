@@ -1,0 +1,228 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const highlights = [
+  "Head of Education, Digicape",
+  "Apple Professional Learning Specialist (2018-2024)",
+  "Head of Innovation, Rustenburg Girls' High School",
+  "Trained and supported hundreds of educators through professional learning initiatives",
+  "Contributed to the successful planning and implementation of multiple 1:1 iPad programmes",
+  "Extensive experience working with school leadership teams on strategy, innovation and change management",
+  "Experienced presenter, facilitator and workshop leader across a wide range of educational settings",
+  "Professional rugby player (2003-2009), developing the leadership, resilience and performance mindset that continues to influence his professional approach today"
+];
+
+const currentFocus = [
+  "Educational strategy and school transformation",
+  "Professional learning and educator development",
+  "Leadership coaching and support",
+  "Artificial intelligence in education",
+  "Change management and innovation",
+  "Apple ecosystem integration",
+  "Strategic partnerships and stakeholder engagement"
+];
+
+const expertise = [
+  "Professional Learning & Teacher Development",
+  "Educational Technology Strategy",
+  "School Leadership & Change Management",
+  "Digital Learning Transformation",
+  "Apple Ecosystem Integration",
+  "Artificial Intelligence in Education",
+  "Strategic Partnerships",
+  "Stakeholder Engagement",
+  "Educational Procurement & Governance",
+  "Leadership Development",
+  "Innovation & Organisational Change"
+];
+
+const experience = [
+  {
+    role: "Head of Education",
+    organisation: "Digicape",
+    dates: "October 2025 - Present",
+    body:
+      "Responsible for leading Digicape's education strategy, professional learning initiatives and school partnerships.",
+    bullets: currentFocus
+  },
+  {
+    role: "Engagement Lead",
+    organisation: "Proco",
+    dates: "2024 - 2025",
+    body:
+      "Led strategic partnerships and stakeholder engagement for a South African startup focused on improving procurement and tender management processes for schools.",
+    bullets: [
+      "Business development",
+      "Educational procurement",
+      "Contract management",
+      "Strategic partnerships",
+      "School engagement",
+      "Stakeholder relationship management"
+    ]
+  },
+  {
+    role: "Teacher, Technology Integration Specialist, Head of Technology Integration, Head of Innovation",
+    organisation: "Rustenburg Girls' High School",
+    dates: "2016 - 2024",
+    body:
+      "During this time, Wihan played a significant role in developing the school's digital learning strategy, supporting educator development and leading innovation initiatives across the school."
+  },
+  {
+    role: "Apple Professional Learning Specialist",
+    organisation: "Apple Professional Learning",
+    dates: "2018 - 2024",
+    body:
+      "Worked alongside schools, educators and leadership teams to support meaningful technology integration and professional learning.",
+    bullets: [
+      "Professional learning workshops",
+      "Leadership coaching",
+      "Educator development",
+      "Strategic consultation",
+      "Conference presentations",
+      "Support for schools implementing 1:1 learning programmes"
+    ]
+  }
+];
+---
+
+<BaseLayout
+  title="Profile"
+  description="Professional education leadership profile for Wihan Neethling."
+>
+  <section class="profile-hero">
+    <div class="container profile-hero-grid">
+      <div class="profile-hero-copy">
+        <p class="eyebrow">Profile</p>
+        <h1>Wihan Neethling</h1>
+        <p class="profile-subtitle">
+          Education Leader | Professional Learning Facilitator | Strategic Advisor
+        </p>
+        <p>
+          Wihan Neethling is an education leader with experience spanning school leadership, professional learning, educational technology, business development and strategic partnerships.
+        </p>
+      </div>
+      <aside class="profile-quote-card" aria-label="Profile headshot and quote">
+        <figure class="profile-quote-image">
+          <img src="/images/wihan-profile-professional.png" alt="Wihan Neethling" />
+        </figure>
+        <blockquote>
+          “Technology should support great teaching, not drive it.”
+        </blockquote>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section container profile-page">
+    <div class="profile-section">
+      <h2>About</h2>
+      <div class="profile-prose">
+        <p>
+          As Head of Education at Digicape, he works with schools across Southern Africa to support digital transformation, professional learning, leadership development and the effective integration of emerging technologies.
+        </p>
+        <p>
+          Having progressed from classroom teacher to Head of Innovation at Rustenburg Girls' High School, Wihan has spent more than a decade helping educators and school leaders navigate meaningful change. His work has focused on developing sustainable technology strategies, building staff capability and creating learning environments where technology enhances teaching and learning outcomes.
+        </p>
+        <p>
+          A former Apple Professional Learning Specialist (2018-2024), Wihan facilitated professional learning workshops, coached educators and school leaders, and supported schools in developing and implementing successful 1:1 learning initiatives. He has trained hundreds of educators and contributed to the successful adoption of iPad programmes in multiple schools.
+        </p>
+        <p>
+          In 2024, Wihan joined Proco as Engagement Lead, where he gained valuable experience in educational procurement, contract management, stakeholder engagement and strategic partnerships. This broadened his understanding of the operational and commercial realities facing schools and strengthened his ability to support leadership teams in making informed technology and infrastructure decisions.
+        </p>
+        <p>
+          Today, as Head of Education at Digicape, Wihan works with independent and public schools, leadership teams, IT departments and educators to develop practical and sustainable approaches to innovation. His work combines professional learning, strategic planning, change management and emerging technologies to help schools prepare for the future of learning.
+        </p>
+        <p>
+          Prior to his career in education, Wihan spent almost a decade as a professional rugby player. The leadership, coaching, resilience and performance principles developed during this time continue to shape his approach to education, professional learning and organisational change.
+        </p>
+      </div>
+    </div>
+
+    <div class="profile-philosophy">
+      <div>
+        <p class="eyebrow">My Philosophy</p>
+        <h2>Technology should never be the starting point.</h2>
+      </div>
+      <div class="profile-prose">
+        <p>
+          The most successful schools begin with a clear vision for teaching and learning, supported by strong pedagogy, capable educators and a culture of continuous growth. Technology can be a powerful enabler, but only when it serves educational goals rather than driving them.
+        </p>
+        <p>
+          Throughout his career, Wihan has worked with teachers, school leaders and education teams to ensure that innovation remains focused on improving learning outcomes, developing future-ready skills and creating meaningful opportunities for students. Whether supporting a classroom teacher, a leadership team or an entire school, his approach is grounded in the belief that people, pedagogy and purpose must always come before technology.
+        </p>
+        <p>
+          His role is not simply to help schools adopt technology. It is to help schools navigate change in ways that strengthen teaching, learning and leadership for the long term.
+        </p>
+      </div>
+    </div>
+
+    <div class="profile-section">
+      <div class="section-header compact">
+        <div>
+          <p class="eyebrow">Experience</p>
+          <h2>Professional Experience</h2>
+        </div>
+      </div>
+      <div class="experience-timeline">
+        {
+          experience.map((item) => (
+            <article class="experience-card">
+              <div class="experience-date">{item.dates}</div>
+              <div>
+                <h3>{item.role}</h3>
+                <p class="experience-org">{item.organisation}</p>
+                <p>{item.body}</p>
+                {item.bullets && (
+                  <ul>
+                    {item.bullets.map((bullet) => (
+                      <li>{bullet}</li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+            </article>
+          ))
+        }
+      </div>
+    </div>
+
+    <div class="profile-two-column">
+      <section class="profile-section profile-panel">
+        <p class="eyebrow">Education</p>
+        <h2>Education</h2>
+        <div class="education-list">
+          <div>
+            <h3>Bachelor of Arts Honours (Psychology)</h3>
+            <p>University of Stellenbosch</p>
+          </div>
+          <div>
+            <h3>Postgraduate Certificate in Education (PGCE)</h3>
+          </div>
+          <div>
+            <h3>Paul Roos Gymnasium</h3>
+            <p>Stellenbosch, South Africa</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="profile-section profile-panel">
+        <p class="eyebrow">Expertise</p>
+        <h2>Areas of Expertise</h2>
+        <ul class="expertise-list">
+          {expertise.map((item) => <li>{item}</li>)}
+        </ul>
+      </section>
+    </div>
+
+    <section class="profile-section">
+      <div class="section-header compact">
+        <div>
+          <p class="eyebrow">Career Highlights</p>
+          <h2>Career Highlights</h2>
+        </div>
+      </div>
+      <ul class="highlight-grid">
+        {highlights.map((item) => <li>{item}</li>)}
+      </ul>
+    </section>
+  </section>
+</BaseLayout>
