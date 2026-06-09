@@ -1,14 +1,16 @@
 ---
 title: "Do passwords drive you insane?"
-date: 2018-02-20
+date: "2018-02-20"
 slug: "do-passwords-drive-you-insane"
-category: "Leadership"
-tags: []
+category: "Technology"
+tags:
+  - "passwords"
+  - "security"
+  - "digital workflows"
 description: "If passwords drive you crazy, this may well be a useful solution."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2018/02/do-passwords-drive-you-insane.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaX4naZ6UV9Ybce2cJbtHWPWMyaaWULC6W8p1eQ51UUu80WWrEEpbT7W290xabiZgKIlMET_Ddd_rb0qXoGaK8WT8IVOrOQzYODInbxvQZwY8qP3MTdAfUL7wHYW1_rKXi1uPSbExgVanZ/s640/20971563620_79a48c00b6_k.jpg)
 
 Over the last 3 weeks, I think I've reset 37 passwords.

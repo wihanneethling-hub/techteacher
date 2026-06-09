@@ -1,15 +1,18 @@
 ---
 title: "Which Macbook is right for me?!?!"
-date: 2018-11-14
+date: "2018-11-14"
 slug: "macbook-air-or-pro"
 category: "Technology"
-tags: 
- - "Apple"
+tags:
+  - "Apple ecosystem"
+  - "Apple ecosystem"
+  - "Google Workspace"
+  - "visual communication"
+  - "teacher workflows"
 description: "Which Macbook is right for me? Some pro's and cons of The new Air vs the 2017 Macbook Pro non-touch bar."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2018/11/macbook-air-or-pro.html"
 ---
-
 As of December 2024, Apple’s MacBook lineup includes the MacBook Air and MacBook Pro, each catering to different user needs. Here’s a comparison to help you choose the right model, with prices converted to South African Rand (ZAR).
 
 MacBook Air

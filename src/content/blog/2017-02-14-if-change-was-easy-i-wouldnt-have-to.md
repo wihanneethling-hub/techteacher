@@ -1,16 +1,18 @@
 ---
 title: "If change was easy, I wouldn't have to write about it!"
-date: 2017-02-14
+date: "2017-02-14"
 slug: "if-change-was-easy-i-wouldnt-have-to"
 category: "Leadership"
-tags: 
- - "tech"
- - "EdTech"
+tags:
+  - "education technology"
+  - "Apple ecosystem"
+  - "iPad"
+  - "Google Workspace"
+  - "professional learning"
 description: "Change management. A buzz word you will see on many a CV out there in the wild. But what does it mean in a practical, day-to-day working environment? I..."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/02/if-change-was-easy-i-wouldnt-have-to.html"
 ---
-
 [_](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirQKBsNudxJu1o04M1t5SnDKIagn8l5uyxZWsdrIxsYqLhOoDfOIUNZQ0SeYIxjlipgh1RkYcnq747dhCe4sWhnXEIkCHxjzKIVPsPZcJ7mKLlBtWmKH9iwSZxOS0uyqPKaoIyE4TcFdMu/s1600/Change-1080x675.jpg)
 ## 
 **

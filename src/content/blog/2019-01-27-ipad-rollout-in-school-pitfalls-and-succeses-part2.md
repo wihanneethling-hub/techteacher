@@ -1,14 +1,16 @@
 ---
 title: "iPad rollout in school - pitfalls and successes PART 2"
-date: 2019-01-27
+date: "2019-01-27"
 slug: "ipad-rollout-in-school-pitfalls-and-succeses-part2"
-category: "Leadership"
-tags: []
+category: "Technology"
+tags:
+  - "iPad"
+  - "device rollout"
+  - "school strategy"
 description: "What to avoid when setting up iPads in school! My tips for your rollout."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/01/ipad-rollout-in-school-pitfalls-and-succeses-part2.html"
 ---
-
 In the last post I started to mention some of the things we did well and not-so-well in our roll-out of iPads to about 200 students. Well, here's some more!
 
 ![](https://image.flaticon.com/icons/png/512/23/23656.png)

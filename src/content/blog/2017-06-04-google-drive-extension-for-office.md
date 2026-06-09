@@ -1,14 +1,16 @@
 ---
 title: "Google Drive Extension for Office"
-date: 2017-06-04
+date: "2017-06-04"
 slug: "google-drive-extension-for-office"
-category: "Leadership"
-tags: []
+category: "Technology"
+tags:
+  - "Google Workspace"
+  - "Microsoft Office"
+  - "teacher workflows"
 description: "A handy plugin that may change your life!"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/06/google-drive-extension-for-office.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia-o7xVKTjVitafxjzJsdzY38WnP3PeAApkqVPXxTHwNuYx6rt0PYHVu_I56v2qUX9F342GteAsil5-jQ13Xf0U4vKclYbMxC3g5eoUma0MtpooEBkq7xeFpbXMHHbxSvz20BD3_Tytes4/s400/Google+Drive+plugin.png)
 
 In the tech world, when you come across something that has been around for a while, it is like arriving at a party an hour late. You feel a little bit silly for having missed out on some of the initial fun, but it doesn't really matter if the rest of the party is amazing!

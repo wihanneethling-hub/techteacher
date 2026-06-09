@@ -1,14 +1,17 @@
 ---
 title: "EdTech in South Africa: A 2024 Snapshot"
-date: 2024-12-05
+date: "2024-12-05"
 slug: "edtech-in-south-africa-2024-snapshot"
-category: "AI"
-tags: []
+category: "Technology"
+tags:
+  - "education technology"
+  - "South Africa"
+  - "AI"
+  - "digital transformation"
 description: "EdTech in South Africa: A 2024 Snapshot South Africa's educational technology (EdTech) sector is rapidly evolving, addressing critical challenges while..."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2024/12/edtech-in-south-africa-2024-snapshot.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMYsgy-vF4sVn3XPCdj7tx3M2IiKQje_VYjwN2kkhJN6Mz1qOebRFlMv6bIUuNCOZkCRBN58MlGOMpFyyzdL8ZqA4ZHIP28WwkRIEOrO59eRnZYPvW6Fn1wVLhgRJvzUrS1XxozEc_fdqkfHaRYL9BxWwSF_rZ8nvQk1pvBeWSD2VLuxWeFQf1xF_swFFT/s320/IMG_0729.jpg)
 
 ### EdTech in South Africa: A 2024 Snapshot

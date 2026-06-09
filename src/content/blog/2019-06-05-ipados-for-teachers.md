@@ -1,14 +1,16 @@
 ---
 title: "iPadOS for Education - will it be any good?"
-date: 2019-06-05
+date: "2019-06-05"
 slug: "ipados-for-teachers"
-category: "Leadership"
-tags: []
+category: "Technology"
+tags:
+  - "iPadOS"
+  - "Apple ecosystem"
+  - "iPad"
 description: "The impact the newly announced iPadOS will have on teachers and education."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/06/ipados-for-teachers.html"
 ---
-
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'}
 p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; min-height: 14.0px}
 

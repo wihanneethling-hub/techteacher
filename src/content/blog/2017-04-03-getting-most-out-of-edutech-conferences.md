@@ -1,14 +1,16 @@
 ---
 title: "Are we getting the most out of Edutech conferences?"
-date: 2017-04-03
+date: "2017-04-03"
 slug: "getting-most-out-of-edutech-conferences"
 category: "Leadership"
-tags: []
+tags:
+  - "professional learning"
+  - "conferences"
+  - "teacher development"
 description: "How can we make sure our teachers get the most out of a tech conference?"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/04/getting-most-out-of-edutech-conferences.html"
 ---
-
 ![](http://blogs.transparent.com/language-news/files/2016/06/ted.jpg)
 
 Ted Talks. Technology Conferences. Google Apps events. Microsoft Educator training sessions. Apple Classroom introductions. It seems teachers have a plethora of options available to them when it comes to developing their tech knowledge. But what makes a good training session or a great conference?

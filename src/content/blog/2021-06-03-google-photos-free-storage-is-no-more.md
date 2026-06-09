@@ -1,16 +1,16 @@
 ---
 title: "Google Photos Free Storage is no more..."
-date: 2021-06-03
+date: "2021-06-03"
 slug: "google-photos-free-storage-is-no-more"
-category: "Leadership"
-tags: 
- - "google"
- - "photos"
+category: "Technology"
+tags:
+  - "Google Photos"
+  - "cloud storage"
+  - "digital workflows"
 description: "What are my options now that Google Photos is no longer free?"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2021/06/google-photos-free-storage-is-no-more.html"
 ---
-
 ![](https://i.pcmag.com/imagery/reviews/03aizylUVApdyLAIku1AvRV-39.1605559903.fit_scale.size_1028x578.png)
 
 If you're like me and have been taking advantage of Google's generous offering to store an unlimited number of photos for free, Tuesday was truly a sad day. From the 1st of June, all photos stored in Google photos count towards your free storage quota of 15GB. 

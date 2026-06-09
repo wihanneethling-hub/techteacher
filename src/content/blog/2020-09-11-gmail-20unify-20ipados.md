@@ -1,16 +1,18 @@
 ---
 title: "Unified Gmail on iPadOS"
-date: 2020-09-11
+date: "2020-09-11"
 slug: "gmail-20unify-20ipados"
 category: "Technology"
-tags: 
- - "GSuite"
- - "Apple"
+tags:
+  - "Google Workspace"
+  - "Apple ecosystem"
+  - "Apple ecosystem"
+  - "iPad"
+  - "teacher workflows"
 description: "Update to Gmail on iPadOS for Gsuite - unified experience."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2020/09/gmail unify ipados.html"
 ---
-
 It's finally here!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-2WSvZqzOuHoFKndUsXeSwKcYFxxdA84VekH4F3Ew4dgi1lPBsFhfIvXlkNO-kkQZUL1d60-mG_spndTXyLTOHenTYs-npgILV5z6U2LrXxVyaGJxrSCTySV41KY1rMWmLC8D80lvOHzP/s320/gmail+update+ios.jpg)

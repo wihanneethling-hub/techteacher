@@ -1,16 +1,16 @@
 ---
 title: "New school year, new devices. Part 1"
-date: 2018-09-18
+date: "2018-09-18"
 slug: "new-school-year-new-devices-part-1"
 category: "Leadership"
-tags: 
- - "EdTech"
- - "Apple"
+tags:
+  - "device strategy"
+  - "Apple ecosystem"
+  - "change management"
 description: "Some tips for a device strategy - Part 1"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2018/09/new-school-year-new-devices-part-1.html"
 ---
-
 ![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ios11-3-ipad-9-7-in-2018.jpg)
 
 New school year, new devices.

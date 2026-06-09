@@ -1,17 +1,18 @@
 ---
 title: "AI Agents in South African Classrooms: A Quiet Revolution"
-date: 2025-05-13
+date: "2025-05-13"
 slug: "ai-agents-in-south-african-classrooms"
 category: "AI"
-tags: 
- - "ChatGPT"
- - "ai"
- - "google"
+tags:
+  - "ChatGPT"
+  - "AI"
+  - "Google Workspace"
+  - "professional learning"
+  - "school strategy"
 description: " AI Agents in South African Classrooms: A Quiet Revolution Artificial Intelligence (AI) is no longer a futuristic concept—it's here, and it's resh..."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2025/05/ai-agents-in-south-african-classrooms.html"
 ---
-
 ![](https://i.postimg.cc/B6TG9Hj4/Pastel-Minimalist-Thank-You-1000-Followers-Facebook-Post.png)
  
 

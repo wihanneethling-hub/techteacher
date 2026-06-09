@@ -1,14 +1,16 @@
 ---
 title: "Guest Post - ExpressVPN Teams up with HP in New Hardware Launch"
-date: 2019-11-17
+date: "2019-11-17"
 slug: "guest-post-expressvpn-teams-up-with-hp"
 category: "Technology"
-tags: []
+tags:
+  - "security"
+  - "hardware"
+  - "guest post"
 description: "Normal 0 false false false false EN-ZA X-NONE X-NONE Since the emergence of the internet, there has been a need for protocols to keep user data secure a..."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/11/guest-post-expressvpn-teams-up-with-hp.html"
 ---
-
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}

@@ -1,14 +1,18 @@
 ---
 title: "Plickers vs Clickers"
-date: 2017-07-05
+date: "2017-07-05"
 slug: "plickers-vs-clickers"
 category: "Technology"
-tags: []
+tags:
+  - "Google Workspace"
+  - "professional learning"
+  - "visual communication"
+  - "digital parenting"
+  - "teacher workflows"
 description: "Clickers or Plickers in the classroom?"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/07/plickers-vs-clickers.html"
 ---
-
 [_](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdzbQOJ63iNxSz6lsIKSU-SsBtDF96gJyM1q_pkhXIBKNd5XytvV6eonG5inPJHWemCr5fSFGE-2QN0NdFasfXV995zRV8s9B5npC2RzqwbfxeChKMeyC2SUjlsoI6XcPgxGMD43EyY3XA/s1600/plickers+logo.png)
 
 So, much like a few schools I know of, we own a set of "clickers".

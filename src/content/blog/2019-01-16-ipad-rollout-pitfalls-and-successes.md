@@ -1,14 +1,18 @@
 ---
 title: "iPad rollout in school - pitfalls and successes PART 1"
-date: 2019-01-16
+date: "2019-01-16"
 slug: "ipad-rollout-pitfalls-and-successes"
 category: "Technology"
-tags: []
+tags:
+  - "Apple ecosystem"
+  - "iPad"
+  - "Google Workspace"
+  - "school strategy"
+  - "teacher workflows"
 description: "First post in a series on what to avoid when rolling out iPads in a school deployment. And some examples of good practice as well!"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/01/ipad-rollout-pitfalls-and-successes.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPPwCeQM457P_D71HHVBd_t4IAXdKCyW6EhgmCErft2gqp79oLkxMILT5Q-AzGfz8VlrWAK7j2qZBu2xyktWI7wlO7hd0yuQWu9L1BLavUKrNVdfm9UsoQSRnDn2r7UR7vow_XrmZ7U4aO/s320/ipad+rollout1.jpg)
 
 So the week finally arrived. What has seemed like years in the making is upon us and I have to say that it has been a busy one!

@@ -1,14 +1,18 @@
 ---
 title: "Think outside the box."
-date: 2017-03-20
+date: "2017-03-20"
 slug: "think-outside-box"
 category: "Technology"
-tags: []
+tags:
+  - "Google Workspace"
+  - "professional learning"
+  - "visual communication"
+  - "digital parenting"
+  - "teacher workflows"
 description: "Use technology in different ways for amazing results!"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/03/think-outside-box.html"
 ---
-
 ![](http://www.flubaroo.com/_/rsrc/1467124191195/newhome/Flubaroo_marquee_1400x560%20(1).png?width=800)
 
 I am always amazed when I get to watch someone who is truly talented in their field, regardless of what that may be. One of my kids' favourite things is watching "[people are awesome](https://www.youtube.com/user/Hadoukentheband)" videos on Youtube. The extreme dedication id takes to perfect your craft is something that I admire in extreme sports athletes.

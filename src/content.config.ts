@@ -10,6 +10,7 @@ const blog = defineCollection({
     slug: z.string().optional(),
     category: z.enum(["AI", "Technology", "Leadership", "Parents"]).default("Technology"),
     description: z.string(),
+    image: z.string().optional(),
     tags: z.array(z.string()).default([]),
     draft: z.boolean().default(false),
     originalUrl: z.url().optional()

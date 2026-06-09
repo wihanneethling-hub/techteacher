@@ -1,14 +1,18 @@
 ---
 title: "The next big thing"
-date: 2017-10-17
+date: "2017-10-17"
 slug: "the-next-big-thing"
 category: "Technology"
-tags: []
+tags:
+  - "Google Workspace"
+  - "professional learning"
+  - "visual communication"
+  - "teacher workflows"
+  - "device rollout"
 description: "What is going to be the next big thing in educational technology?"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/10/the-next-big-thing.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGmz1d3NWpupvY6nbg5W1myeEiKzQh61UvUmAkmGhDwE0kPqAuTZgV_AlONfgls3zfzbMwOen6fA5gBEn407pMLaNyUAIk8PQDW7V6C7oAs0cdkJRNVdslBraBOK3UvFWRa4ehz2w1a-uX/s320/next+big+thing.png)
 
 Waiting for the next big thing. Isn't that what we're all doing?

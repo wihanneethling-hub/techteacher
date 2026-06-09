@@ -1,14 +1,16 @@
 ---
 title: "Tweet your Instagram pictures as full images and not links"
-date: 2019-07-26
+date: "2019-07-26"
 slug: "instagram-posts-twitter"
 category: "Technology"
-tags: []
+tags:
+  - "social media"
+  - "automation"
+  - "teacher workflows"
 description: "How to share your Instagram posts to Twitter as images rather than links. Mind blowing!"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/07/instagram-posts-twitter.html"
 ---
-
 ![](https://ifttt.com/ifttt-banner.png)
 
 Using the amazing service IFTTT it is possible to set up some automated tasks that run in the background without you ever having to pay attention to it. You set it up once and let it do its thing in the background. Amazing.

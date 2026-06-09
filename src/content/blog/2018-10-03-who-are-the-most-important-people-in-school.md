@@ -1,19 +1,18 @@
 ---
 title: "Who are the most important people in a school?"
-date: 2018-10-03
+date: "2018-10-03"
 slug: "who-are-the-most-important-people-in-school"
 category: "Leadership"
-tags: 
- - "GSuite"
- - "Apple"
- - "Explaneverything"
- - "teachers"
- - "training"
+tags:
+  - "Google Workspace"
+  - "Apple ecosystem"
+  - "Explain Everything"
+  - "professional learning"
+  - "Apple ecosystem"
 description: "How to prepare your teachers for digital learning."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2018/10/who-are-the-most-important-people-in-school.html"
 ---
-
 New school year, new devices. Part 2
 
 So in my previous post I outlined how excited we are about the new devices and accessories we will be dishing out to our new students next year. Today I want to chat about how we are going to (try!) make sure students get the most out of these devices.

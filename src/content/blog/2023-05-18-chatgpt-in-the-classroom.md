@@ -1,15 +1,18 @@
 ---
 title: "5 Effective Prompts for ChatGPT in the Classroom"
-date: 2023-05-18
+date: "2023-05-18"
 slug: "chatgpt-in-the-classroom"
 category: "AI"
-tags: 
- - "ChatGPT"
+tags:
+  - "ChatGPT"
+  - "AI"
+  - "professional learning"
+  - "visual communication"
+  - "digital parenting"
 description: "5 Effective ways to use ChatGPT in the classroom and which prompts to use."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2023/05/chatgpt-in-the-classroom.html"
 ---
-
 ![](https://blog.limewire.com/content/images/size/w1200/2023/11/A-Robot-Writing-AI-Prompts.jpg)
 
 Recently, in pretty much all of my professional development sessions, the most requested topic has been ChatGPT. And with good reason! The AI chatbot from OpenAI has taken the world by storm and caused quite a stir in classrooms around the world.

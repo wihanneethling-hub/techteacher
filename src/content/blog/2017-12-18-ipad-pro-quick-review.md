@@ -1,14 +1,18 @@
 ---
 title: "iPad Pro Quick Review"
-date: 2017-12-18
+date: "2017-12-18"
 slug: "ipad-pro-quick-review"
 category: "Technology"
-tags: []
+tags:
+  - "Apple ecosystem"
+  - "iPad"
+  - "visual communication"
+  - "teacher workflows"
+  - "device rollout"
 description: "The Verge Review So, I have had some time to get my hands nice and dirty with the new(ish) iPad Pro 10.5” over the last few days. I had been using the p..."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/12/ipad-pro-quick-review.html"
 ---
-
 ![](https://i.ytimg.com/vi/-Hf5prRZIeg/maxresdefault.jpg)
 [The Verge Review](https://www.youtube.com/watch?v=-Hf5prRZIeg)
 

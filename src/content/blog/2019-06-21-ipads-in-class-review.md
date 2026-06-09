@@ -1,14 +1,16 @@
 ---
 title: "iPads in class: A review"
-date: 2019-06-21
+date: "2019-06-21"
 slug: "ipads-in-class-review"
-category: "Leadership"
-tags: []
+category: "Technology"
+tags:
+  - "iPad"
+  - "classroom technology"
+  - "device rollout"
 description: "A review of iPads in the classroom."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/06/ipads-in-class-review.html"
 ---
-
 [_](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq2NQPfxj0wNpvt32LLFB0YnCdsT4CZk0vajtiSlTq68GO2GA8v-CSLNIPXxCw9XpmW6aP6Ss31ZL6T6tLOhEOXCSm4wLiT7TsWxwHEnpXjMAu_6q0dGYWY24AsltpyK0X1a8SSzpu32_Z/s1600/IMG_0544.jpg)
 
 We started our rollout of just under 200 iPads in January and thought it was about time to touch base and reflect on what we have achieved thus far. Let's take a look!

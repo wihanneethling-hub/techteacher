@@ -1,14 +1,16 @@
 ---
 title: "MDM's - love or hate them?"
-date: 2018-12-15
+date: "2018-12-15"
 slug: "mdms-love-or-hate-them"
-category: "Leadership"
-tags: []
+category: "Technology"
+tags:
+  - "MDM"
+  - "Apple ecosystem"
+  - "device management"
 description: "What do we think about MDM's? I also discuss Apple Classroom and creating Managed Apple ID's."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2018/12/mdms-love-or-hate-them.html"
 ---
-
 With the country's teachers all going on holiday last week, I was looking forward to some much-deserved rest. BUT...
 
 Next week we have to onboard all our new iPads in preparation for our rollout in January. We have decided to change from Apple's own Profile Manager (which we currently use to manage our relatively small fleet of devices) to [Zuludesk](https://www.zuludesk.com/). This will be a new experience for all of us and we are both nervous and excited to experiment with what it has to offer.

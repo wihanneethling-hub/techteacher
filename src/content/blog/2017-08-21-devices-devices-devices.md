@@ -1,14 +1,16 @@
 ---
 title: "Devices devices devices"
-date: 2017-08-21
+date: "2017-08-21"
 slug: "devices-devices-devices"
 category: "Technology"
-tags: []
+tags:
+  - "Google Workspace"
+  - "professional learning"
+  - "device rollout"
 description: "Which device is best for teachers in the classroom? We have started our research!"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/08/devices-devices-devices.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4OSqn1bjqAs6P4eK8R1q9zcLKafDi9wMbkKqt0RUjKtwuX0ByaMZO9kXsuXnnqkJh86EVmuOv1hG1CIziRSeRzNAQYy2gL54znkUs2YWDnWbv5090gTVN__bpUTp2TpiTsdCbUQXP_Zu/w1450-h898-no/)
 
 For a self-confessed gadget geek, what can be more fun than the opportunity to test and play with a variety of cutting-edge (mostly!) devices? Well, getting to keep them all I guess!

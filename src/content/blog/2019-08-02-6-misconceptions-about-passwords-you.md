@@ -1,14 +1,17 @@
 ---
 title: "6 Misconceptions About Passwords You Might Have"
-date: 2019-08-02
+date: "2019-08-02"
 slug: "6-misconceptions-about-passwords-you"
 category: "Technology"
-tags: []
+tags:
+  - "Google Workspace"
+  - "security"
+  - "digital parenting"
+  - "teacher workflows"
 description: "Do you know everything about passwords? Here are 6 common misconceptions."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/08/6-misconceptions-about-passwords-you.html"
 ---
-
 Guest Post by Techwarn
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgowRBPMhhNcuvBggYMw_GG1vQPTDTZJiVxbguKQBcDOm8bgaIf0T2vByWMEG-UeqgthndDSCXj26NACVFt-xI-0kVGqgr7LeMN4dumGxW4gxboZmFq0iG-H_DLnjeZ4BmpCscWDrkiNBYL/s400/Ma7O3FLQS3u20ygXOk5oNg_thumb_18.jpg)

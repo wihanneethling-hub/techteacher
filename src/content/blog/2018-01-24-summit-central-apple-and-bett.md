@@ -1,14 +1,16 @@
 ---
 title: "Summit Central - Apple and BETT"
-date: 2018-01-24
+date: "2018-01-24"
 slug: "summit-central-apple-and-bett"
 category: "Leadership"
-tags: []
+tags:
+  - "Apple ecosystem"
+  - "conferences"
+  - "education technology"
 description: "What happens at an education conference? Apple and BETT London should tell me!"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2018/01/summit-central-apple-and-bett.html"
 ---
-
 Howdy from a cold and wet London! 
 
 I have been fortunate enough to be in London to attend two stunning Edtech conferences - the Apple Leadership Summit and BETT.

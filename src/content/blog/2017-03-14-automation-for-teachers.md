@@ -1,16 +1,18 @@
 ---
 title: "Automation for teachers - if you're not using it, you're missing out."
-date: 2017-03-14
+date: "2017-03-14"
 slug: "automation-for-teachers"
 category: "Technology"
-tags: 
- - "Tech Tips"
- - "EdTech"
+tags:
+  - "teacher workflows"
+  - "education technology"
+  - "Apple ecosystem"
+  - "Google Workspace"
+  - "professional learning"
 description: "How to automate mundane tasks for teachers."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/03/automation-for-teachers.html"
 ---
-
 How long would you wait in line for a cup of coffee?
 
 I'm pretty sure the average person's answer to that question would be different now than it would've been ten or fifteen years ago. These days, everything happens faster. We no longer have ridiculously slow dial-up connections for the internet, [Amazon deliveries take mere hours](https://primenow.amazon.com/onboard?sourceUrl=%2F) to arrive and we can watch that movie now instead of waiting for it to come on after the news tonight. And it's great. But do you know what's even greater than things happening quickly? When they happen AUTOMATICALLY.

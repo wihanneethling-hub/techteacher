@@ -1,14 +1,18 @@
 ---
 title: "Dishing them out"
-date: 2018-01-13
+date: "2018-01-13"
 slug: "lucky-teachers"
 category: "Technology"
-tags: []
+tags:
+  - "Apple ecosystem"
+  - "iPad"
+  - "Google Workspace"
+  - "professional learning"
+  - "visual communication"
 description: "When teachers each get an iPad Pro for the start of the new school year!"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2018/01/lucky-teachers.html"
 ---
-
 So next week I will have the pleasure of dishing out more than 50 iPad Pro 10.5" tablets to teachers. It has been a long process getting to this point, and hopefully I will be able to outline and share some of my experience of how we came to decide on the route we are taking on our technology journey.
 
 But before then, as I am preparing my initial presentation for the launch of the devices, I am finding it difficult to explain to these teachers just how fortunate they are to be given a device like this.

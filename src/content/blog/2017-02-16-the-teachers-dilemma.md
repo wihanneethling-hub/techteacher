@@ -1,17 +1,16 @@
 ---
 title: "The teacher's dilemma"
-date: 2017-02-16
+date: "2017-02-16"
 slug: "the-teachers-dilemma"
-category: "AI"
-tags: 
- - "skills"
- - "tech"
- - "EdTech"
+category: "Leadership"
+tags:
+  - "future-ready skills"
+  - "teaching and learning"
+  - "assessment"
 description: "How can we prepare students for standardised tests at the end of high school and still teach them valuable 21st Century Skills necessary to be successfu..."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/02/the-teachers-dilemma.html"
 ---
-
 [_](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigltLIl1HEItBuEFsc6RAlOzkUfnmQGPdeuSoy1UURdNw8mgJNeN5bevEBApjCntL10a_iI4J6SEsQnQlg79_l6FZafjBFUSRCI7TQh4C4jhB_VqqCYGHW6dl3KX9SJRwXlfvA06HDdtiF/s1600/21st+cs.PNG)
 
 How can we prepare students for standardised tests at the end of high school and still teach them valuable 21st Century Skills necessary to be successful in the job market?

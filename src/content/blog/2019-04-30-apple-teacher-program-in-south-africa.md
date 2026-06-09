@@ -1,19 +1,16 @@
 ---
 title: "Apple Teacher Program in South Africa"
-date: 2019-04-30
+date: "2019-04-30"
 slug: "apple-teacher-program-in-south-africa"
 category: "Leadership"
-tags: 
- - "skills"
- - "Apple"
- - "EdTech"
- - "teachers"
- - "training"
+tags:
+  - "Apple Teacher"
+  - "professional learning"
+  - "teacher development"
 description: "A quick introduction and some thought on the Apple Teacher program recently made available to South African teachers."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/04/apple-teacher-program-in-south-africa.html"
 ---
-
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'}
 p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; min-height: 14.0px}
 

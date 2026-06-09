@@ -1,14 +1,18 @@
 ---
 title: "AR and VR - what is all the fuss about?"
-date: 2017-04-11
+date: "2017-04-11"
 slug: "ar-and-vr-what-is-all-fuss-about"
 category: "Technology"
-tags: []
+tags:
+  - "Apple ecosystem"
+  - "Google Workspace"
+  - "professional learning"
+  - "visual communication"
+  - "digital parenting"
 description: "How can you use Augmented and Virtual reality to bring your classroom to life?"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/04/ar-and-vr-what-is-all-fuss-about.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkVH9ae-2aFrEukq0UiXoW-mCFy1NXh-1i60U4WuwM38ih2m61EWbUlO7-JmMG8RR_vlVmhEf22TE2daSkEG3Yu9SMuH4ygJq8bL5s5dEdciWidl8_AV1n3J0qblvDinNKAdkImJTR0Yb1/s400/VR+goggles.jpg)
 
 Last week I was fortunate enough to attend the Google Apps for Education (GAFE - now better known as GSuite) Summit in Cape Town. It consisted of 2 days packed full of learning, with keynotes, presentations and sessions led by both local and international Educational Technology experts. We had Jay Atwood ([@jayatwood](https://twitter.com/jayatwood)) and Rafranz Davis ([@RafranzDavis](https://twitter.com/RafranzDavis)) from the States, as well as many local teachers aiming to enhance the use of technology in schools by sharing some of what they do.

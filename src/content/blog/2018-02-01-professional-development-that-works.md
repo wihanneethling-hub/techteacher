@@ -1,14 +1,18 @@
 ---
 title: "Professional development that works"
-date: 2018-02-01
+date: "2018-02-01"
 slug: "professional-development-that-works"
 category: "Leadership"
-tags: []
+tags:
+  - "Apple ecosystem"
+  - "iPad"
+  - "Google Workspace"
+  - "professional learning"
+  - "teacher workflows"
 description: "While sitting aboard a flight on my way to London last week, it allowed me some time to reflect on the start of this year and the effect that handing ou..."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2018/02/Professional-development-that-works.html"
 ---
-
 While sitting aboard a flight on my way to London last week, it allowed me some time to reflect on the start of this year and the effect that handing out 55 iPad Pro's to teachers have had.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicX8ZdT7kB1U27Xht7AM3r8pOD4k9md_RNEu-glY8-jc5-_RN_l43ElQf6TCSGRfnjeFA7Net_Ef7p7KIV7fl7EHm3uoSMU5pujBAXFKP6EpUjBPiAHYV2z5ie3AQaCfN7qM_Nn9sCi8C9/s320/IMG_20180120_171341_954.jpg)

@@ -1,14 +1,17 @@
 ---
 title: "Little kids and tech - are we doing it right?"
-date: 2017-05-14
+date: "2017-05-14"
 slug: "using-tech-in-primary-school-parents-at"
-category: "Leadership"
-tags: []
+category: "Parents"
+tags:
+  - "digital parenting"
+  - "primary school"
+  - "learning apps"
+  - "AR/VR"
 description: "Let kids use devices to learn something!"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/05/using-tech-in-primary-school-parents-at.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid3ct3pH0IHb-lLb84FdfQwMtwsMg1kNfSJ9hoJ1s-_8ZO5rlHzaXgDD3SjBiy-oDznaecuzWqFjPbDMotLRzYN29lPtje6TFR0QS6-fxB9c1L0E-0GQGcz9cyi2DOA-prY3E6uD_Hvc3U/s400/IMG_20170514_083855_HDR.jpg)
 
 I can't remember where I heard this story, but it's a good one. A father wasn't sure why his big 50" TV had all these horizontal smudge marks across the bottom of the screen. That was, until one day he saw his 3-year-old walk up to the TV and try to "swipe" across the screen to change the channel from the news his dad was watching!

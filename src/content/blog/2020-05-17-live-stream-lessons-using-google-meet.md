@@ -1,14 +1,17 @@
 ---
 title: "Live-stream lessons using Google Meet (and iPad if you have no webcam!)"
-date: 2020-05-17
+date: "2020-05-17"
 slug: "live-stream-lessons-using-google-meet"
-category: "Leadership"
-tags: []
+category: "Technology"
+tags:
+  - "Google Meet"
+  - "iPad"
+  - "remote learning"
+  - "live streaming"
 description: "How to live stream your lessons using Google Meet and iPad"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2020/05/live-stream-lessons-using-google-meet.html"
 ---
-
 ![](https://www.gstatic.com/images/branding/product/2x/meet_96dp.png)
 
 With a return to school imminent for South African teachers, there is a lot to think about. This week I have been measuring classrooms to try and see how many we can get into each venue while still maintaining a safe 1,5m distance. The answer? Not many! This fast-tracked my thinking into solutions that would mean we could still teach the same number of students, but in many more venues and with the same number of teachers.

@@ -1,17 +1,16 @@
 ---
 title: "5 Ways to deliver punchy presentations."
-date: 2017-02-20
+date: "2017-02-20"
 slug: "5-ways-to-deliver-punchy-presentations"
-category: "Leadership"
-tags: 
- - "presentation"
- - "tech"
- - "EdTech"
+category: "Technology"
+tags:
+  - "presentations"
+  - "visual communication"
+  - "teacher workflows"
 description: "How can you make sure your presentation has what it takes to keep your audience engaged?"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/02/5-ways-to-deliver-punchy-presentations.html"
 ---
-
 It is very difficult at the best of times to have a positive frame of mind on a Friday afternoon when you're sitting at a staff development meeting. Making sure you get the most out of the training provided means keeping an open mind, having a positive attitude and trying your best not to think about the cold beer waiting for you when you get home!
 
 Unfortunately, no matter how good or relevant the topic being covered is to you, a poorly presented session will undoubtedly mean you are not getting out of it what the organisers intended. Here are a 5 ways to ensure you keep your attendees focused during the presentation and talking about it to their friends and colleagues afterwards.

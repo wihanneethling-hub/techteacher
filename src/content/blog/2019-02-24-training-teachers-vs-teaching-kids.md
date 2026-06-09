@@ -1,14 +1,18 @@
 ---
 title: "Training Teachers vs Teaching Kids"
-date: 2019-02-24
+date: "2019-02-24"
 slug: "training-teachers-vs-teaching-kids"
 category: "Leadership"
-tags: []
+tags:
+  - "Apple ecosystem"
+  - "iPad"
+  - "Google Workspace"
+  - "professional learning"
+  - "visual communication"
 description: "So as the title suggests, this is going to be a comparison post. I divide my time between coaching teachers on how to incorporate technology into their..."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/02/training-teachers-vs-teaching-kids.html"
 ---
-
 So as the title suggests, this is going to be a comparison post.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHkQROroo1qKpfWsXb9zV9NNDISx_p-OPmDg5Mi7H46j9V2-ixl9nvUuDggnZrZbDn9IRrBWjzWdzN3mdokzMFt4F45mepkqQSVVsleuDrlFsziySOdIrxmwWziIFqPCqdnNSvhQh1KDy/s400/Whiteboard+1.png)

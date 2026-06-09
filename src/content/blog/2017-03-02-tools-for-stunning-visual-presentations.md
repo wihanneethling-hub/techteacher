@@ -1,17 +1,18 @@
 ---
 title: "Tools for stunning visual presentations"
-date: 2017-03-02
+date: "2017-03-02"
 slug: "tools-for-stunning-visual-presentations"
 category: "Technology"
-tags: 
- - "presentation"
- - "tech"
- - "EdTech"
+tags:
+  - "presentations"
+  - "education technology"
+  - "Google Workspace"
+  - "professional learning"
+  - "visual communication"
 description: "Use these tools to make your next presentation grab and hold your audience's attention."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/03/tools-for-stunning-visual-presentations.html"
 ---
-
 ![](https://i.ytimg.com/vi/Ht7Q6aDnIE8/maxresdefault.jpg)
 
 I've written before about the importance of engaging your audience visually during a presentation, and I wanted to share a great way that makes it easy to include stunning visuals in your next PowerPoint, Keynote or Google Slides presentation.

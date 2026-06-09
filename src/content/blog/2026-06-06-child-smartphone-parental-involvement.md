@@ -1,10 +1,10 @@
 ---
 title: "Your Child's Smartphone Isn't the Problem. Lack of Parental Involvement Is."
-date: 2026-06-06
+date: "2026-06-06"
 slug: "child-smartphone-parental-involvement"
 category: "Parents"
 tags:
-  - "parenting"
+  - "digital parenting"
   - "digital wellbeing"
   - "smartphones"
   - "online safety"
@@ -12,7 +12,6 @@ tags:
 description: "A practical parent-focused guide to smartphones, screen time, monitoring tools, and the role of active parental involvement."
 draft: false
 ---
-
 ![A teacher helping a learner use a tablet in a classroom.](/assets/classroom-ipads-hero.webp)
 
 It almost crept up on me: I now have two boys with cell phones. And that means having to be a lot more vigilant and present in our parenting. Granted, the little one only checks some messages on it a few times in the afternoon at home, but still.

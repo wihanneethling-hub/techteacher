@@ -1,17 +1,18 @@
 ---
 title: "Schools: Why tech projects fail"
-date: 2019-03-12
+date: "2019-03-12"
 slug: "schools-why-tech-projects-fail"
 category: "Leadership"
-tags: 
- - "tech"
- - "EdTech"
- - "teachers"
+tags:
+  - "education technology"
+  - "professional learning"
+  - "Google Workspace"
+  - "teacher workflows"
+  - "device rollout"
 description: "Some thoughts on why technology projects fail or do not work."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/03/schools-why-tech-projects-fail.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyzJ3nYTxOHoweLDACXdjEvl73tK6DSvsKvhDDmp0NIp90BY4zD2QCqgxFw7hFDzkVELIxh0S8ZMAkXbYRJTybIpoImYOtKIhNzNISHlHz0K2h7-1cd19U4wNGhYfnikTfOVqW1zAvdOrQ/s400/APPY+HOUR.jpg)
 
 Appy Hour @Rustenburg Girls' High

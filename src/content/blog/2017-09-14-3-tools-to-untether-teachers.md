@@ -1,14 +1,18 @@
 ---
 title: "3 Tools to Untether Teachers"
-date: 2017-09-14
+date: "2017-09-14"
 slug: "3-tools-to-untether-teachers"
 category: "Technology"
-tags: []
+tags:
+  - "Apple ecosystem"
+  - "Google Workspace"
+  - "professional learning"
+  - "visual communication"
+  - "teacher workflows"
 description: "Cast your device, mirror your screen, move from the front of the classroom!"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/09/3-tools-to-untether-teachers.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqyRN-8wAUpZbE-YlNNXzFS8udJkOyqXuv_UzkiF5-xGlj07NW8d3YEiSIgOKKjXAyC6RX9PSSJBKYkqNb0645FpTNIdMBBE3osLQEAsTDqgIVSPaQOh2lDPA9YE5yK4uGHDfYPJQVVBXf/s400/screen+cast.jpg)
 
 I have worked in many schools that rely heavily on the use of interactive whiteboard displays to promote engagement and student involvement in lessons. These boards serve a great purpose, but I often find high school teachers use it far less than their primary counterparts. Older students seem to quickly get over the novelty of being able or allowed to write on the board usually reserved for the teacher...

@@ -4,15 +4,22 @@ import "../styles/global.css";
 interface Props {
   title?: string;
   description?: string;
+  image?: string;
+  canonical?: string;
+  ogType?: string;
 }
 
 const {
   title = "The Tech Teacher",
-  description = "Practical education technology notes, guides, and classroom ideas."
+  description = "Practical education technology notes, guides, and classroom ideas.",
+  image = "/assets/tech-teacher-logo-wide.png",
+  canonical,
+  ogType = "website"
 } = Astro.props;
 
 const pageTitle = title === "The Tech Teacher" ? title : `${title} | The Tech Teacher`;
-const ogImage = new URL("/assets/tech-teacher-logo-wide.png", Astro.site).toString();
+const canonicalUrl = canonical ? new URL(canonical, Astro.site).toString() : Astro.url.href;
+const ogImage = new URL(image, Astro.site).toString();
 const navItems = [
   ["Home", "/"],
   ["AI", "/ai/"],
@@ -29,6 +36,7 @@ const navItems = [
     <meta charset="UTF-8" />
     <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width" />
+    <link rel="canonical" href={canonicalUrl} />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
     <link rel="icon" type="image/png" sizes="64x64" href="/favicon-64.png" />
     <link rel="sitemap" href="/sitemap-index.xml" />
@@ -36,7 +44,13 @@ const navItems = [
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImage} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:type" content={ogType} />
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    <slot name="head" />
     <title>{pageTitle}</title>
   </head>
   <body>

@@ -1,15 +1,18 @@
 ---
 title: "Want Free Textbooks? Snapplify's got you covered!"
-date: 2020-04-14
+date: "2020-04-14"
 slug: "freetextbookssnapplify"
 category: "Technology"
-tags: 
- - "Ebooks"
+tags:
+  - "ebooks"
+  - "Google Workspace"
+  - "professional learning"
+  - "remote learning"
+  - "live streaming"
 description: "Snapplify offers free textbooks to help out during Covid-19 crisis"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2020/04/Freetextbookssnapplify.html"
 ---
-
 Amidst the global crisis of COVID-19 we have seen Edtech companies do their bit to help out where they can. [Kahoot](http://create.kahoot.it/) has given teachers a free upgrade to the premium tier which adds more question types, Google has extended its offering of [Meet](http://meet.google.com/) to allow for live streaming with up to 100,000 participants and up to 250 in group video calls.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie-fTSIvEnarptT3D_JVbDxjAdS_cFpJ52gmIWzunxmodCUvSRGPChla_X0asw-rqb0Fzqj4ttLKujnBSWAxJ0CvpVYFbiM9X_pY2HRp30cgHGAvAgthjsi2Ll9MW2-eQIUZ9IMd8nrPx5/s200/snapplify.png)

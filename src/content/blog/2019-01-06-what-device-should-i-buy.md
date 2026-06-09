@@ -1,14 +1,18 @@
 ---
 title: "What should I buy?"
-date: 2019-01-06
+date: "2019-01-06"
 slug: "what-device-should-i-buy"
 category: "Technology"
-tags: []
+tags:
+  - "Apple ecosystem"
+  - "Google Workspace"
+  - "professional learning"
+  - "teacher workflows"
+  - "device rollout"
 description: "Need help choosing a new phone or laptop? Advice from the Tech Teacher is what you need!"
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2019/01/what-device-should-i-buy.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgleS5s9M2LOGZ2CrbdPWVPqMR2uNdT0WrIoL8MMLIjj32UHS1pZrrhULub_QYgF0Ula0x1uF4KIVTLktrU-38s_3Fgb8vLtg1pPw7J7thZx5rw0q4_KAGlNOdRYqSmnJ1ROgh352Y-Q8xM/s640/iphone.jpg)
 
 A question I am faced with on a regular basis is one regarding an upgrade to a personal device.

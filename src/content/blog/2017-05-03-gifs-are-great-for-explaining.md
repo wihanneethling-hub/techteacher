@@ -1,14 +1,16 @@
 ---
 title: "GIF's are great for explaining what you mean!"
-date: 2017-05-03
+date: "2017-05-03"
 slug: "gifs-are-great-for-explaining"
-category: "Leadership"
-tags: []
+category: "Technology"
+tags:
+  - "visual communication"
+  - "GIFs"
+  - "teacher workflows"
 description: "Use a GIF to enhance what you are trying to explain."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/05/gifs-are-great-for-explaining.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtl4JzbLXfskoA1IOYAw5FjMyKV9K9TyjxXIg2pADggYtUk5VrneGYoRn1wqW1JofjNnp2ZRcoikFLRuzaZk3i9D1ovlB2QdTY7xchrZW0uPJcqQ4l8UG11irfJKdbgOuuAu7VVQLAunSh/s640/paint.gif)
 Over the last few months I have been experimenting with different ways to create short, quick tech tips for my teachers. I have tried video tutorials, emails, hyperdocs, interactive PDF's (more to follow on some of these) and most recently started experimenting with GIF's.
 

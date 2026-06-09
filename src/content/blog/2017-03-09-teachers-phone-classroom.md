@@ -1,15 +1,18 @@
 ---
 title: "Teachers: Unleash the power of your phone!"
-date: 2017-03-09
+date: "2017-03-09"
 slug: "teachers-phone-classroom"
 category: "Technology"
-tags: 
- - "Tech Tips"
+tags:
+  - "teacher workflows"
+  - "Apple ecosystem"
+  - "Google Workspace"
+  - "professional learning"
+  - "visual communication"
 description: "How to use your phone in the clasroom."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/03/teachers-phone-classroom.html"
 ---
-
 ![](https://www.jisc.ac.uk/sites/default/files/mobile-social-hero.jpg)
 ### 
 

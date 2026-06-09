@@ -1,15 +1,16 @@
 ---
 title: "Start of something new..."
-date: 2017-01-26
+date: "2017-01-26"
 slug: "start-of-something-new"
 category: "Technology"
-tags: 
- - "EdTech"
+tags:
+  - "education technology"
+  - "Google Workspace"
+  - "professional learning"
 description: "Hello World! Creating and running a blog is something that many people have attempted to do, but quite often it starts off with a bang and then fades aw..."
 draft: false
 originalUrl: "https://www.thetechteacher.co.za/2017/01/start-of-something-new.html"
 ---
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRvLKa-akpIGWWnlvHjmvwmlfrNopBaT6R-pala5QsMlvOZeqxg5T2mZWsKkg1kE6Oj-SDo5zRz5ICyiytxRt55nN9qKXH-e2iJ40OqBtVFfuCc_LMe6bjLnaLQqqPAlXFSf7jT7iStUBL/s1600/Profile+pic.png)
 
 Hello World!
