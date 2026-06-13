@@ -15,6 +15,13 @@ const date = post.data.date.toLocaleDateString("en-ZA", {
 ---
 
 <article class="post-card">
+  {
+    post.data.image && (
+      <a class="post-card-image" href={getPostUrl(post)} aria-hidden="true" tabindex="-1">
+        <img src={post.data.image} alt="" loading="lazy" decoding="async" />
+      </a>
+    )
+  }
   <a class="post-card-main" href={getPostUrl(post)}>
     <div>
       <div class="post-meta">
