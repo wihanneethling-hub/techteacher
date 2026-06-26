@@ -3,22 +3,10 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
 const journey = [
   {
-    chapter: "Professional Rugby",
-    dates: "2003-2009",
+    chapter: "Head of Education",
+    dates: "2025-Present",
     body:
-      "A high-performance environment that shaped Wihan's approach to teamwork, leadership, resilience and preparation."
-  },
-  {
-    chapter: "Classroom & School Leadership",
-    dates: "2016-2024",
-    body:
-      "At Rustenburg Girls' High School, Wihan moved from teacher to Technology Integration Specialist, Head of Technology Integration and Head of Innovation, supporting teaching practice, staff development and school-wide digital strategy."
-  },
-  {
-    chapter: "Apple Professional Learning",
-    dates: "2018-2024",
-    body:
-      "As a former Apple Professional Learning Specialist, Wihan supported teacher development through workshops, coaching and practical guidance for schools implementing 1:1 iPad learning initiatives."
+      "At Digicape, Wihan leads education strategy, professional learning, school partnerships, AI in education and change management support for schools."
   },
   {
     chapter: "Business & Strategy",
@@ -27,10 +15,22 @@ const journey = [
       "As Engagement Lead at Proco, Wihan worked across partnerships, school procurement, tender management, contracts and stakeholder engagement."
   },
   {
-    chapter: "Head of Education",
-    dates: "2025-Present",
+    chapter: "Apple Professional Learning",
+    dates: "2018-2024",
     body:
-      "At Digicape, Wihan leads education strategy, professional learning, school partnerships, AI in education and change management support for schools."
+      "As a former Apple Professional Learning Specialist, Wihan supported teacher development through workshops, coaching and practical guidance for schools implementing 1:1 iPad learning initiatives."
+  },
+  {
+    chapter: "Classroom & School Leadership",
+    dates: "2016-2024",
+    body:
+      "At Rustenburg Girls' High School, Wihan moved from teacher to Technology Integration Specialist, Head of Technology Integration and Head of Innovation, supporting teaching practice, staff development and school-wide digital strategy."
+  },
+  {
+    chapter: "Professional Rugby",
+    dates: "2003-2009",
+    body:
+      "A high-performance environment that shaped Wihan's approach to teamwork, leadership, resilience and preparation."
   }
 ];
 
@@ -159,32 +159,17 @@ const highlights = [
       </ul>
     </section>
 
-    <div class="profile-two-column">
-      <section class="profile-section profile-panel">
-        <p class="eyebrow">Selected Highlights</p>
-        <h2>Selected Highlights</h2>
-        <ul class="highlight-grid profile-highlight-list">
-          {highlights.map((item) => <li>{item}</li>)}
-        </ul>
-      </section>
-
-      <section class="profile-section profile-panel">
-        <p class="eyebrow">Education</p>
-        <h2>Education</h2>
-        <div class="education-list">
-          <div>
-            <h3>BA Honours in Psychology</h3>
-          </div>
-          <div>
-            <h3>Postgraduate Certificate in Education</h3>
-            <p>PGCE</p>
-          </div>
-          <div>
-            <h3>Paul Roos Gymnasium</h3>
-          </div>
+    <section class="profile-section">
+      <div class="section-header compact">
+        <div>
+          <p class="eyebrow">Selected Highlights</p>
+          <h2>Selected Highlights</h2>
         </div>
-      </section>
-    </div>
+      </div>
+      <ul class="highlight-grid profile-highlight-list">
+        {highlights.map((item) => <li>{item}</li>)}
+      </ul>
+    </section>
 
     <section class="profile-section profile-closing">
       <p class="eyebrow">Writing</p>

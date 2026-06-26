@@ -1159,7 +1159,7 @@ h3 {
 }
 
 .profile-highlight-list {
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .profile-closing {
@@ -1284,6 +1284,10 @@ h3 {
   }
 
   .profile-help-list {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-highlight-list {
     grid-template-columns: 1fr;
   }
 }
