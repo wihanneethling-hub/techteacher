@@ -99,4 +99,4 @@ The technology merely gives us the information. Parenting still requires us to i
 
 The best parental-control app is therefore not necessarily the one that monitors the most. It is the one that gives your family the right level of support without replacing trust, communication and active involvement.
 
-Ultimately, the specific app matters less than the decision to use one. Our job is not to monitor every move or eliminate every risk. It is to stay involved, set clear and appropriate boundaries and do everything we reasonably can to keep our children safe.
+Ultimately, I think the specific app actually matters less than the decision to use one. Our job is not to monitor every move or eliminate every risk. It is to stay involved, set clear and appropriate boundaries and do everything we reasonably can to keep our children safe.
