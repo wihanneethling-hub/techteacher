@@ -93,8 +93,10 @@ Children should generally know what is being monitored, what parents can see and
 
 ## The App Cannot Become the Parent
 
-No parental-control app can understand the full context of a child's life. An alert may detect a concerning phrase, but it cannot always tell whether it was a serious disclosure, a joke or a friend asking for support. A screen-time report may show three hours on a device, but it cannot always distinguish between homework, creativity, communication and mindless scrolling.
+No parental-control app can understand the full context of a child's life. An alert may detect a concerning phrase, but it cannot always tell whether it was something serious, a joke or a friend asking for support. A screen-time report may show three hours on a device, but it cannot always distinguish between homework, creativity, communication or mindless scrolling.
 
-The technology gives parents information. Parenting still requires us to interpret it, ask questions and have difficult conversations.
+The technology merely gives us the information. Parenting still requires us to interpret it, ask questions and have difficult conversations.
 
 The best parental-control app is therefore not necessarily the one that monitors the most. It is the one that gives your family the right level of support without replacing trust, communication and active involvement.
+
+Ultimately, the specific app matters less than the decision to use one. Our job is not to monitor every move or eliminate every risk. It is to stay involved, set clear and appropriate boundaries and do everything we reasonably can to keep our children safe.
