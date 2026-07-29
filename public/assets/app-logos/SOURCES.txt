@@ -1,0 +1,21 @@
+Editorial identification assets used in the parental-control app comparison.
+
+Apple mark:
+https://cdn.simpleicons.org/apple/000000
+
+Qustodio Parental Control App artwork:
+https://itunes.apple.com/lookup?id=1501720596
+
+Bark - Parental Controls artwork:
+https://itunes.apple.com/lookup?id=1477619146
+
+Google Family Link artwork:
+https://itunes.apple.com/lookup?id=1150085200
+
+Microsoft Family Safety artwork:
+https://itunes.apple.com/lookup?id=1489209093
+
+All product names, logos, and app artwork remain trademarks or property of
+their respective owners. They are shown only to identify products discussed
+in this independent editorial comparison. No endorsement or affiliation is
+implied.
