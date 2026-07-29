@@ -84,7 +84,7 @@ const schema = {
       </ul>
       {post.data.image && (
         <figure class="article-hero-image">
-          <img src={post.data.image} alt="" loading="eager" decoding="async" />
+          <img src={post.data.image} alt={post.data.imageAlt ?? ""} loading="eager" decoding="async" />
         </figure>
       )}
     </header>
